@@ -1,0 +1,8570 @@
+[
+  {
+    "date": "9/28/1912",
+    "name": "Stevens",
+    "princeton": 65,
+    "opponent": 0,
+    "description": "9/28/1912 Princeton: 65 / Stevens: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1912",
+    "name": "Rutgers",
+    "princeton": 41,
+    "opponent": 6,
+    "description": "10/2/1912 Princeton: 41 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1912",
+    "name": "Lehigh",
+    "princeton": 35,
+    "opponent": 0,
+    "description": "10/5/1912 Princeton: 35 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1912",
+    "name": "VPI",
+    "princeton": 31,
+    "opponent": 0,
+    "description": "10/12/1912 Princeton: 31 / VPI: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1912",
+    "name": "Syracuse",
+    "princeton": 62,
+    "opponent": 0,
+    "description": "10/19/1912 Princeton: 62 / Syracuse: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1912",
+    "name": "Dartmouth",
+    "princeton": 22,
+    "opponent": 7,
+    "description": "10/26/1912 Princeton: 22 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1912",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 16,
+    "description": "11/2/1912 Princeton: 6 / Harvard: 16",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1912",
+    "name": "NYU",
+    "princeton": 54,
+    "opponent": 0,
+    "description": "11/9/1912 Princeton: 54 / NYU: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1912",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 6,
+    "description": "11/16/1912 Princeton: 6 / Yale: 6",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/1913",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 3,
+    "description": "9/27/1913 Princeton: 14 / Rutgers: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1913",
+    "name": "Fordham",
+    "princeton": 69,
+    "opponent": 0,
+    "description": "10/2/1913 Princeton: 69 / Fordham: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1913",
+    "name": "Bucknell",
+    "princeton": 28,
+    "opponent": 6,
+    "description": "10/11/1913 Princeton: 28 / Bucknell: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1913",
+    "name": "Syracuse",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "10/18/1913 Princeton: 13 / Syracuse: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1913",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 6,
+    "description": "10/25/1913 Princeton: 0 / Dartmouth: 6",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1913",
+    "name": "Holy Cross",
+    "princeton": 54,
+    "opponent": 0,
+    "description": "11/1/1913 Princeton: 54 / Holy Cross: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1913",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 3,
+    "description": "11/8/1913 Princeton: 0 / Harvard: 3",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1913",
+    "name": "Yale",
+    "princeton": 3,
+    "opponent": 3,
+    "description": "11/15/1913 Princeton: 3 / Yale: 3",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/26/1914",
+    "name": "Rutgers",
+    "princeton": 12,
+    "opponent": 0,
+    "description": "9/26/1914 Princeton: 12 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1914",
+    "name": "Bucknell",
+    "princeton": 10,
+    "opponent": 0,
+    "description": "10/3/1914 Princeton: 10 / Bucknell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1914",
+    "name": "Syracuse",
+    "princeton": 12,
+    "opponent": 7,
+    "description": "10/10/1914 Princeton: 12 / Syracuse: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1914",
+    "name": "Lafayette",
+    "princeton": 16,
+    "opponent": 0,
+    "description": "10/17/1914 Princeton: 16 / Lafayette: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1914",
+    "name": "Dartmouth",
+    "princeton": 16,
+    "opponent": 12,
+    "description": "10/24/1914 Princeton: 16 / Dartmouth: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1914",
+    "name": "Williams",
+    "princeton": 7,
+    "opponent": 7,
+    "description": "10/31/1914 Princeton: 7 / Williams: 7",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1914",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 20,
+    "description": "11/7/1914 Princeton: 0 / Harvard: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/14/1914",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 19,
+    "description": "11/14/1914 Princeton: 14 / Yale: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1915",
+    "name": "Georgetown",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "9/25/1915 Princeton: 13 / Georgetown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1915",
+    "name": "Rutgers",
+    "princeton": 10,
+    "opponent": 0,
+    "description": "10/2/1915 Princeton: 10 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1915",
+    "name": "Syracuse",
+    "princeton": 3,
+    "opponent": 0,
+    "description": "10/9/1915 Princeton: 3 / Syracuse: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/1915",
+    "name": "Lafayette",
+    "princeton": 40,
+    "opponent": 3,
+    "description": "10/16/1915 Princeton: 40 / Lafayette: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1915",
+    "name": "Williams",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/23/1915 Princeton: 27 / Williams: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1915",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 10,
+    "description": "11/6/1915 Princeton: 6 / Harvard: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1915",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "11/13/1915 Princeton: 7 / Yale: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/30/1916",
+    "name": "Holy Cross",
+    "princeton": 21,
+    "opponent": 0,
+    "description": "9/30/1916 Princeton: 21 / Holy Cross: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/1916",
+    "name": "UNC",
+    "princeton": 29,
+    "opponent": 0,
+    "description": "10/7/1916 Princeton: 29 / UNC: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1916",
+    "name": "Tufts",
+    "princeton": 3,
+    "opponent": 0,
+    "description": "10/14/1916 Princeton: 3 / Tufts: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1916",
+    "name": "Lafayette",
+    "princeton": 33,
+    "opponent": 0,
+    "description": "10/21/1916 Princeton: 33 / Lafayette: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1916",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 3,
+    "description": "10/28/1916 Princeton: 7 / Dartmouth: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1916",
+    "name": "Bucknell",
+    "princeton": 42,
+    "opponent": 0,
+    "description": "11/4/1916 Princeton: 42 / Bucknell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1916",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 3,
+    "description": "11/11/1916 Princeton: 0 / Harvard: 3",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/1916",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 10,
+    "description": "11/18/1916 Princeton: 0 / Yale: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1919",
+    "name": "Trinity",
+    "princeton": 28,
+    "opponent": 0,
+    "description": "10/4/1919 Princeton: 28 / Trinity: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1919",
+    "name": "Lafayette",
+    "princeton": 9,
+    "opponent": 6,
+    "description": "10/11/1919 Princeton: 9 / Lafayette: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1919",
+    "name": "Rochester",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/18/1919 Princeton: 34 / Rochester: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1919",
+    "name": "Colgate",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "10/25/1919 Princeton: 0 / Colgate: 7",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1919",
+    "name": "West Virginia",
+    "princeton": 0,
+    "opponent": 25,
+    "description": "11/1/1919 Princeton: 0 / West Virginia: 25",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1919",
+    "name": "Harvard",
+    "princeton": 10,
+    "opponent": 10,
+    "description": "11/8/1919 Princeton: 10 / Harvard: 10",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1919",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 6,
+    "description": "11/15/1919 Princeton: 13 / Yale: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/1920",
+    "name": "Swarthmore",
+    "princeton": 17,
+    "opponent": 6,
+    "description": "10/2/1920 Princeton: 17 / Swarthmore: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1920",
+    "name": "Maryland",
+    "princeton": 35,
+    "opponent": 0,
+    "description": "10/9/1920 Princeton: 35 / Maryland: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/1920",
+    "name": "Washington and Lee",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/16/1920 Princeton: 34 / Washington and Lee: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1920",
+    "name": "Navy",
+    "princeton": 14,
+    "opponent": 0,
+    "description": "10/23/1920 Princeton: 14 / Navy: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1920",
+    "name": "West Virginia",
+    "princeton": 10,
+    "opponent": 3,
+    "description": "10/30/1920 Princeton: 10 / West Virginia: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1920",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 14,
+    "description": "11/6/1920 Princeton: 14 / Harvard: 14",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1920",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "11/13/1920 Princeton: 20 / Yale: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1921",
+    "name": "Swarthmore",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "10/1/1921 Princeton: 21 / Swarthmore: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1921",
+    "name": "Colgate",
+    "princeton": 19,
+    "opponent": 0,
+    "description": "10/8/1921 Princeton: 19 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1921",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 13,
+    "description": "10/15/1921 Princeton: 0 / Navy: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/22/1921",
+    "name": "Chicago",
+    "princeton": 0,
+    "opponent": 9,
+    "description": "10/22/1921 Princeton: 0 / Chicago: 9",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/1921",
+    "name": "UVA",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/29/1921 Princeton: 34 / UVA: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1921",
+    "name": "Harvard",
+    "princeton": 10,
+    "opponent": 3,
+    "description": "11/5/1921 Princeton: 10 / Harvard: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1921",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "11/12/1921 Princeton: 7 / Yale: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/30/1922",
+    "name": "Johns Hopkins",
+    "princeton": 30,
+    "opponent": 0,
+    "description": "9/30/1922 Princeton: 30 / Johns Hopkins: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1922",
+    "name": "UVA",
+    "princeton": 5,
+    "opponent": 0,
+    "description": "10/7/1922 Princeton: 5 / UVA: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1922",
+    "name": "Colgate",
+    "princeton": 10,
+    "opponent": 0,
+    "description": "10/14/1922 Princeton: 10 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1922",
+    "name": "Maryland",
+    "princeton": 26,
+    "opponent": 0,
+    "description": "10/21/1922 Princeton: 26 / Maryland: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1922",
+    "name": "Chicago",
+    "princeton": 21,
+    "opponent": 18,
+    "description": "10/28/1922 Princeton: 21 / Chicago: 18",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/4/1922",
+    "name": "Swarthmore",
+    "princeton": 22,
+    "opponent": 13,
+    "description": "11/4/1922 Princeton: 22 / Swarthmore: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1922",
+    "name": "Harvard",
+    "princeton": 10,
+    "opponent": 3,
+    "description": "11/11/1922 Princeton: 10 / Harvard: 3",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/1922",
+    "name": "Yale",
+    "princeton": 3,
+    "opponent": 0,
+    "description": "11/18/1922 Princeton: 3 / Yale: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1923",
+    "name": "Johns Hopkins",
+    "princeton": 16,
+    "opponent": 7,
+    "description": "10/6/1923 Princeton: 16 / Johns Hopkins: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1923",
+    "name": "Georgetown",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "10/13/1923 Princeton: 7 / Georgetown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/1923",
+    "name": "Notre Dame",
+    "princeton": 2,
+    "opponent": 25,
+    "description": "10/20/1923 Princeton: 2 / Notre Dame: 25",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1923",
+    "name": "Navy",
+    "princeton": 3,
+    "opponent": 3,
+    "description": "10/27/1923 Princeton: 3 / Navy: 3",
+    "win": "T",
+    "H/A/N": "N"
+  },
+  {
+    "date": "11/3/1923",
+    "name": "Swarthmore",
+    "princeton": 35,
+    "opponent": 6,
+    "description": "11/3/1923 Princeton: 35 / Swarthmore: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1923",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 5,
+    "description": "11/10/1923 Princeton: 0 / Harvard: 5",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1923",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 27,
+    "description": "11/17/1923 Princeton: 0 / Yale: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/1924",
+    "name": "Amherst",
+    "princeton": 40,
+    "opponent": 6,
+    "description": "10/4/1924 Princeton: 40 / Amherst: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1924",
+    "name": "Lehigh",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "10/11/1924 Princeton: 0 / Lehigh: 0",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1924",
+    "name": "Navy",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "10/18/1924 Princeton: 17 / Navy: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1924",
+    "name": "Notre Dame",
+    "princeton": 0,
+    "opponent": 12,
+    "description": "10/25/1924 Princeton: 0 / Notre Dame: 12",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1924",
+    "name": "Swarthmore",
+    "princeton": 21,
+    "opponent": 6,
+    "description": "11/1/1924 Princeton: 21 / Swarthmore: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1924",
+    "name": "Harvard",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "11/8/1924 Princeton: 34 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1924",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 10,
+    "description": "11/15/1924 Princeton: 0 / Yale: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1925",
+    "name": "Amherst",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/3/1925 Princeton: 20 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1925",
+    "name": "Washington and Lee",
+    "princeton": 15,
+    "opponent": 6,
+    "description": "10/10/1925 Princeton: 15 / Washington and Lee: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1925",
+    "name": "Navy",
+    "princeton": 10,
+    "opponent": 10,
+    "description": "10/17/1925 Princeton: 10 / Navy: 10",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1925",
+    "name": "Colgate",
+    "princeton": 0,
+    "opponent": 9,
+    "description": "10/24/1925 Princeton: 0 / Colgate: 9",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1925",
+    "name": "Swarthmore",
+    "princeton": 19,
+    "opponent": 7,
+    "description": "10/31/1925 Princeton: 19 / Swarthmore: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1925",
+    "name": "Harvard",
+    "princeton": 36,
+    "opponent": 0,
+    "description": "11/7/1925 Princeton: 36 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1925",
+    "name": "Yale",
+    "princeton": 25,
+    "opponent": 12,
+    "description": "11/14/1925 Princeton: 25 / Yale: 12",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/1926",
+    "name": "Amherst",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/2/1926 Princeton: 14 / Amherst: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1926",
+    "name": "Washington and Lee",
+    "princeton": 7,
+    "opponent": 7,
+    "description": "10/9/1926 Princeton: 7 / Washington and Lee: 7",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/1926",
+    "name": "Navy",
+    "princeton": 13,
+    "opponent": 27,
+    "description": "10/16/1926 Princeton: 13 / Navy: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1926",
+    "name": "Lehigh",
+    "princeton": 7,
+    "opponent": 6,
+    "description": "10/23/1926 Princeton: 7 / Lehigh: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1926",
+    "name": "Swarthmore",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/30/1926 Princeton: 27 / Swarthmore: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1926",
+    "name": "Harvard",
+    "princeton": 12,
+    "opponent": 0,
+    "description": "11/6/1926 Princeton: 12 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1926",
+    "name": "Yale",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "11/13/1926 Princeton: 10 / Yale: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1927",
+    "name": "Amherst",
+    "princeton": 14,
+    "opponent": 0,
+    "description": "10/1/1927 Princeton: 14 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1927",
+    "name": "Lehigh",
+    "princeton": 42,
+    "opponent": 0,
+    "description": "10/8/1927 Princeton: 42 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1927",
+    "name": "Washington and Lee",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "10/15/1927 Princeton: 13 / Washington and Lee: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1927",
+    "name": "Cornell",
+    "princeton": 21,
+    "opponent": 10,
+    "description": "10/22/1927 Princeton: 21 / Cornell: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1927",
+    "name": "William & Mary",
+    "princeton": 35,
+    "opponent": 7,
+    "description": "10/29/1927 Princeton: 35 / William & Mary: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1927",
+    "name": "Ohio State",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "11/5/1927 Princeton: 20 / Ohio State: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1927",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 14,
+    "description": "11/12/1927 Princeton: 6 / Yale: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/6/1928",
+    "name": "Vermont",
+    "princeton": 50,
+    "opponent": 0,
+    "description": "10/6/1928 Princeton: 50 / Vermont: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1928",
+    "name": "UVA",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "10/13/1928 Princeton: 0 / UVA: 0",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/1928",
+    "name": "Lehigh",
+    "princeton": 47,
+    "opponent": 0,
+    "description": "10/20/1928 Princeton: 47 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1928",
+    "name": "Cornell",
+    "princeton": 3,
+    "opponent": 0,
+    "description": "10/27/1928 Princeton: 3 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1928",
+    "name": "Ohio State",
+    "princeton": 6,
+    "opponent": 6,
+    "description": "11/3/1928 Princeton: 6 / Ohio State: 6",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/1928",
+    "name": "Washington and Lee",
+    "princeton": 25,
+    "opponent": 12,
+    "description": "11/10/1928 Princeton: 25 / Washington and Lee: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1928",
+    "name": "Yale",
+    "princeton": 12,
+    "opponent": 2,
+    "description": "11/17/1928 Princeton: 12 / Yale: 2",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/24/1928",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 9,
+    "description": "11/24/1928 Princeton: 0 / Navy: 9",
+    "win": "L",
+    "H/A/N": "N"
+  },
+  {
+    "date": "10/5/1929",
+    "name": "Amherst",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "10/5/1929 Princeton: 7 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1929",
+    "name": "Brown",
+    "princeton": 12,
+    "opponent": 13,
+    "description": "10/12/1929 Princeton: 12 / Brown: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1929",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "10/19/1929 Princeton: 7 / Cornell: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/1929",
+    "name": "Navy",
+    "princeton": 13,
+    "opponent": 13,
+    "description": "10/26/1929 Princeton: 13 / Navy: 13",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1929",
+    "name": "Chicago",
+    "princeton": 7,
+    "opponent": 15,
+    "description": "11/2/1929 Princeton: 7 / Chicago: 15",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/9/1929",
+    "name": "Lehigh",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "11/9/1929 Princeton: 20 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1929",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 13,
+    "description": "11/6/1929 Princeton: 0 / Yale: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/1930",
+    "name": "Amherst",
+    "princeton": 23,
+    "opponent": 0,
+    "description": "10/4/1930 Princeton: 23 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1930",
+    "name": "Brown",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "10/11/1930 Princeton: 0 / Brown: 7",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1930",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 12,
+    "description": "10/18/1930 Princeton: 7 / Cornell: 12",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1930",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 31,
+    "description": "10/25/1930 Princeton: 0 / Navy: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1930",
+    "name": "Chicago",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "11/1/1930 Princeton: 0 / Chicago: 0",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/8/1930",
+    "name": "Lehigh",
+    "princeton": 9,
+    "opponent": 13,
+    "description": "11/8/1930 Princeton: 9 / Lehigh: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1930",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 10,
+    "description": "11/15/1930 Princeton: 7 / Yale: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1931",
+    "name": "Amherst",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/3/1931 Princeton: 27 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1931",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 19,
+    "description": "10/10/1931 Princeton: 7 / Brown: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1931",
+    "name": "Cornell",
+    "princeton": 0,
+    "opponent": 33,
+    "description": "10/17/1931 Princeton: 0 / Cornell: 33",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1931",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 15,
+    "description": "10/24/1931 Princeton: 0 / Navy: 15",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1931",
+    "name": "Michigan",
+    "princeton": 0,
+    "opponent": 21,
+    "description": "10/31/1931 Princeton: 0 / Michigan: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1931",
+    "name": "Lehigh",
+    "princeton": 7,
+    "opponent": 19,
+    "description": "11/7/1931 Princeton: 7 / Lehigh: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1931",
+    "name": "Washington and Lee",
+    "princeton": 0,
+    "opponent": 6,
+    "description": "11/14/1931 Princeton: 0 / Washington and Lee: 6",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/28/1931",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 51,
+    "description": "11/28/1931 Princeton: 14 / Yale: 51",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/1/1932",
+    "name": "Amherst",
+    "princeton": 22,
+    "opponent": 0,
+    "description": "10/1/1932 Princeton: 22 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1932",
+    "name": "Columbia",
+    "princeton": 7,
+    "opponent": 20,
+    "description": "10/8/1932 Princeton: 7 / Columbia: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/1932",
+    "name": "Cornell",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "10/15/1932 Princeton: 0 / Cornell: 0",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1932",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "10/22/1932 Princeton: 0 / Navy: 0",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/1932",
+    "name": "Michigan",
+    "princeton": 7,
+    "opponent": 14,
+    "description": "10/29/1932 Princeton: 7 / Michigan: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1932",
+    "name": "Lehigh",
+    "princeton": 53,
+    "opponent": 0,
+    "description": "11/5/1932 Princeton: 53 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1932",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 7,
+    "description": "11/12/1932 Princeton: 7 / Yale: 7",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1933",
+    "name": "Amherst",
+    "princeton": 40,
+    "opponent": 0,
+    "description": "10/7/1933 Princeton: 40 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1933",
+    "name": "Williams",
+    "princeton": 45,
+    "opponent": 0,
+    "description": "10/14/1933 Princeton: 45 / Williams: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1933",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/21/1933 Princeton: 20 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1933",
+    "name": "Washington and Lee",
+    "princeton": 6,
+    "opponent": 0,
+    "description": "10/28/1933 Princeton: 6 / Washington and Lee: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1933",
+    "name": "Brown",
+    "princeton": 33,
+    "opponent": 0,
+    "description": "11/4/1933 Princeton: 33 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/1933",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "11/11/1933 Princeton: 7 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1933",
+    "name": "Navy",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "11/18/1933 Princeton: 13 / Navy: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/25/1933",
+    "name": "Rutgers",
+    "princeton": 26,
+    "opponent": 6,
+    "description": "11/25/1933 Princeton: 26 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "12/2/1933",
+    "name": "Yale",
+    "princeton": 27,
+    "opponent": 2,
+    "description": "12/2/1933 Princeton: 27 / Yale: 2",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/6/1934",
+    "name": "Amherst",
+    "princeton": 75,
+    "opponent": 0,
+    "description": "10/6/1934 Princeton: 75 / Amherst: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1934",
+    "name": "Williams",
+    "princeton": 35,
+    "opponent": 6,
+    "description": "10/13/1934 Princeton: 35 / Williams: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/1934",
+    "name": "Washington and Lee",
+    "princeton": 14,
+    "opponent": 12,
+    "description": "10/20/1934 Princeton: 14 / Washington and Lee: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1934",
+    "name": "Cornell",
+    "princeton": 45,
+    "opponent": 0,
+    "description": "10/27/1934 Princeton: 45 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1934",
+    "name": "Harvard",
+    "princeton": 19,
+    "opponent": 0,
+    "description": "11/3/1934 Princeton: 19 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/1934",
+    "name": "Lehigh",
+    "princeton": 54,
+    "opponent": 0,
+    "description": "11/10/1934 Princeton: 54 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1934",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "11/17/1934 Princeton: 0 / Yale: 7",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/24/1934",
+    "name": "Dartmouth",
+    "princeton": 38,
+    "opponent": 13,
+    "description": "11/24/1934 Princeton: 38 / Dartmouth: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1935",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 6,
+    "description": "10/5/1935 Princeton: 7 / Penn: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1935",
+    "name": "Williams",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/12/1935 Princeton: 14 / Williams: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1935",
+    "name": "Rutgers",
+    "princeton": 29,
+    "opponent": 6,
+    "description": "10/19/1935 Princeton: 29 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1935",
+    "name": "Cornell",
+    "princeton": 54,
+    "opponent": 0,
+    "description": "10/26/1935 Princeton: 54 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/1935",
+    "name": "Navy",
+    "princeton": 26,
+    "opponent": 0,
+    "description": "11/2/1935 Princeton: 26 / Navy: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/9/1935",
+    "name": "Harvard",
+    "princeton": 35,
+    "opponent": 0,
+    "description": "11/9/1935 Princeton: 35 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1935",
+    "name": "Lehigh",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "11/16/1935 Princeton: 27 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/1935",
+    "name": "Dartmouth",
+    "princeton": 26,
+    "opponent": 6,
+    "description": "11/23/1935 Princeton: 26 / Dartmouth: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/30/1935",
+    "name": "Yale",
+    "princeton": 38,
+    "opponent": 7,
+    "description": "11/30/1935 Princeton: 38 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/3/1936",
+    "name": "Williams",
+    "princeton": 27,
+    "opponent": 7,
+    "description": "10/3/1936 Princeton: 27 / Williams: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1936",
+    "name": "Rutgers",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/10/1936 Princeton: 20 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1936",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "10/17/1936 Princeton: 0 / Penn: 7",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1936",
+    "name": "Navy",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "10/24/1936 Princeton: 7 / Navy: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1936",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 14,
+    "description": "10/31/1936 Princeton: 14 / Harvard: 14",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1936",
+    "name": "Cornell",
+    "princeton": 41,
+    "opponent": 13,
+    "description": "11/7/1936 Princeton: 41 / Cornell: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1936",
+    "name": "Yale",
+    "princeton": 23,
+    "opponent": 26,
+    "description": "11/14/1936 Princeton: 23 / Yale: 26",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/1936",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 13,
+    "description": "11/21/1936 Princeton: 13 / Dartmouth: 13",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1937",
+    "name": "UVA",
+    "princeton": 26,
+    "opponent": 0,
+    "description": "10/2/1937 Princeton: 26 / UVA: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1937",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 20,
+    "description": "10/9/1937 Princeton: 7 / Cornell: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/1937",
+    "name": "Chicago",
+    "princeton": 16,
+    "opponent": 7,
+    "description": "10/16/1937 Princeton: 16 / Chicago: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/23/1937",
+    "name": "Rutgers",
+    "princeton": 6,
+    "opponent": 0,
+    "description": "10/23/1937 Princeton: 6 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1937",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 34,
+    "description": "10/30/1937 Princeton: 6 / Harvard: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1937",
+    "name": "Dartmouth",
+    "princeton": 9,
+    "opponent": 33,
+    "description": "11/6/1937 Princeton: 9 / Dartmouth: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1937",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 26,
+    "description": "11/13/1937 Princeton: 0 / Yale: 26",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/1937",
+    "name": "Navy",
+    "princeton": 26,
+    "opponent": 6,
+    "description": "11/20/1937 Princeton: 26 / Navy: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1938",
+    "name": "Williams",
+    "princeton": 39,
+    "opponent": 0,
+    "description": "10/1/1938 Princeton: 39 / Williams: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1938",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 22,
+    "description": "10/8/1938 Princeton: 0 / Dartmouth: 22",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1938",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "10/15/1938 Princeton: 13 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1938",
+    "name": "Navy",
+    "princeton": 13,
+    "opponent": 13,
+    "description": "10/22/1938 Princeton: 13 / Navy: 13",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1938",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 26,
+    "description": "10/29/1938 Princeton: 7 / Harvard: 26",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1938",
+    "name": "Rutgers",
+    "princeton": 18,
+    "opponent": 20,
+    "description": "11/5/1938 Princeton: 18 / Rutgers: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/12/1938",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "11/12/1938 Princeton: 20 / Yale: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/1938",
+    "name": "Army",
+    "princeton": 7,
+    "opponent": 19,
+    "description": "11/19/1938 Princeton: 7 / Army: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1939",
+    "name": "Williams",
+    "princeton": 26,
+    "opponent": 6,
+    "description": "10/7/1939 Princeton: 26 / Williams: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1939",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 20,
+    "description": "10/14/1939 Princeton: 7 / Cornell: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1939",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/21/1939 Princeton: 14 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/28/1939",
+    "name": "Brown",
+    "princeton": 26,
+    "opponent": 12,
+    "description": "10/28/1939 Princeton: 26 / Brown: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1939",
+    "name": "Harvard",
+    "princeton": 9,
+    "opponent": 6,
+    "description": "11/4/1939 Princeton: 9 / Harvard: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1939",
+    "name": "Dartmouth",
+    "princeton": 9,
+    "opponent": 7,
+    "description": "11/11/1939 Princeton: 9 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1939",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "11/18/1939 Princeton: 20 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/25/1939",
+    "name": "Navy",
+    "princeton": 28,
+    "opponent": 0,
+    "description": "11/25/1939 Princeton: 28 / Navy: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1940",
+    "name": "Vanderbilt",
+    "princeton": 7,
+    "opponent": 6,
+    "description": "10/5/1940 Princeton: 7 / Vanderbilt: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1940",
+    "name": "Navy",
+    "princeton": 6,
+    "opponent": 12,
+    "description": "10/12/1940 Princeton: 6 / Navy: 12",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1940",
+    "name": "Penn",
+    "princeton": 28,
+    "opponent": 46,
+    "description": "10/19/1940 Princeton: 28 / Penn: 46",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/1940",
+    "name": "Rutgers",
+    "princeton": 28,
+    "opponent": 13,
+    "description": "10/26/1940 Princeton: 28 / Rutgers: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1940",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "11/2/1940 Princeton: 0 / Harvard: 0",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1940",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 9,
+    "description": "11/9/1940 Princeton: 14 / Dartmouth: 9",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1940",
+    "name": "Yale",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "11/16/1940 Princeton: 10 / Yale: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/1940",
+    "name": "Army",
+    "princeton": 26,
+    "opponent": 19,
+    "description": "11/23/1940 Princeton: 26 / Army: 19",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1941",
+    "name": "Williams",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "10/4/1941 Princeton: 20 / Williams: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1941",
+    "name": "Columbia",
+    "princeton": 0,
+    "opponent": 21,
+    "description": "10/11/1941 Princeton: 0 / Columbia: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1941",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 23,
+    "description": "10/18/1941 Princeton: 0 / Penn: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1941",
+    "name": "Vanderbilt",
+    "princeton": 7,
+    "opponent": 46,
+    "description": "10/25/1941 Princeton: 7 / Vanderbilt: 46",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/1/1941",
+    "name": "Harvard",
+    "princeton": 4,
+    "opponent": 6,
+    "description": "11/1/1941 Princeton: 4 / Harvard: 6",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1941",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 20,
+    "description": "11/8/1941 Princeton: 13 / Dartmouth: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1941",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 6,
+    "description": "11/15/1941 Princeton: 20 / Yale: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/1941",
+    "name": "Navy",
+    "princeton": 0,
+    "opponent": 23,
+    "description": "11/22/1941 Princeton: 0 / Navy: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1942",
+    "name": "Lakehurst",
+    "princeton": 20,
+    "opponent": 6,
+    "description": "9/26/1942 Princeton: 20 / Lakehurst: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1942",
+    "name": "Williams",
+    "princeton": 7,
+    "opponent": 19,
+    "description": "10/3/1942 Princeton: 7 / Williams: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1942",
+    "name": "Navy",
+    "princeton": 10,
+    "opponent": 0,
+    "description": "10/10/1942 Princeton: 10 / Navy: 0",
+    "win": "W",
+    "H/A/N": "N"
+  },
+  {
+    "date": "10/17/1942",
+    "name": "Penn",
+    "princeton": 6,
+    "opponent": 6,
+    "description": "10/17/1942 Princeton: 6 / Penn: 6",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1942",
+    "name": "Brown",
+    "princeton": 32,
+    "opponent": 13,
+    "description": "10/24/1942 Princeton: 32 / Brown: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1942",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 19,
+    "description": "10/31/1942 Princeton: 14 / Harvard: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1942",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 19,
+    "description": "11/7/1942 Princeton: 7 / Dartmouth: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1942",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 13,
+    "description": "11/14/1942 Princeton: 6 / Yale: 13",
+    "win": "L",
+    "H/A/N": "N"
+  },
+  {
+    "date": "11/21/1942",
+    "name": "Army",
+    "princeton": 7,
+    "opponent": 40,
+    "description": "11/21/1942 Princeton: 7 / Army: 40",
+    "win": "L",
+    "H/A/N": "N"
+  },
+  {
+    "date": "9/25/1943",
+    "name": "Penn",
+    "princeton": 9,
+    "opponent": 47,
+    "description": "9/25/1943 Princeton: 9 / Penn: 47",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/1943",
+    "name": "Columbia",
+    "princeton": 26,
+    "opponent": 7,
+    "description": "10/2/1943 Princeton: 26 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/1943",
+    "name": "Cornell",
+    "princeton": 0,
+    "opponent": 30,
+    "description": "10/9/1943 Princeton: 0 / Cornell: 30",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1943",
+    "name": "Brown",
+    "princeton": 20,
+    "opponent": 28,
+    "description": "10/30/1943 Princeton: 20 / Brown: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1943",
+    "name": "Villanova",
+    "princeton": 22,
+    "opponent": 45,
+    "description": "11/7/1943 Princeton: 22 / Villanova: 45",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1943",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 27,
+    "description": "11/13/1943 Princeton: 6 / Yale: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/1943",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 42,
+    "description": "11/20/1943 Princeton: 13 / Dartmouth: 42",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1944",
+    "name": "Muhlenberg",
+    "princeton": 16,
+    "opponent": 6,
+    "description": "11/11/1944 Princeton: 16 / Muhlenberg: 6",
+    "win": "",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1944",
+    "name": "Swarthmore",
+    "princeton": 0,
+    "opponent": 3,
+    "description": "11/18/1944 Princeton: 0 / Swarthmore: 3",
+    "win": "",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/25/1944",
+    "name": "Altantic City NAS",
+    "princeton": 6,
+    "opponent": 31,
+    "description": "11/25/1944 Princeton: 6 / Altantic City NAS: 31",
+    "win": "",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1945",
+    "name": "Lafayette",
+    "princeton": 7,
+    "opponent": 7,
+    "description": "10/6/1945 Princeton: 7 / Lafayette: 7",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1945",
+    "name": "Cornell",
+    "princeton": 14,
+    "opponent": 6,
+    "description": "10/13/1945 Princeton: 14 / Cornell: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/27/1945",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 6,
+    "description": "10/27/1945 Princeton: 14 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1945",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 28,
+    "description": "11/3/1945 Princeton: 0 / Penn: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/1945",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 13,
+    "description": "11/10/1945 Princeton: 13 / Dartmouth: 13",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1945",
+    "name": "Columbia",
+    "princeton": 7,
+    "opponent": 32,
+    "description": "11/17/1945 Princeton: 7 / Columbia: 32",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/24/1945",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 20,
+    "description": "11/24/1945 Princeton: 14 / Yale: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1946",
+    "name": "Brown",
+    "princeton": 33,
+    "opponent": 12,
+    "description": "10/5/1946 Princeton: 33 / Brown: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1946",
+    "name": "Harvard",
+    "princeton": 12,
+    "opponent": 13,
+    "description": "10/12/1946 Princeton: 12 / Harvard: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1946",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/19/1946 Princeton: 14 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1946",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 14,
+    "description": "10/26/1946 Princeton: 7 / Cornell: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1946",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "11/2/1946 Princeton: 17 / Penn: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1946",
+    "name": "UVA",
+    "princeton": 6,
+    "opponent": 20,
+    "description": "11/9/1946 Princeton: 6 / UVA: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1946",
+    "name": "Yale",
+    "princeton": 2,
+    "opponent": 30,
+    "description": "11/16/1946 Princeton: 2 / Yale: 30",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/23/1946",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 20,
+    "description": "11/23/1946 Princeton: 13 / Dartmouth: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1947",
+    "name": "Brown",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "10/4/1947 Princeton: 21 / Brown: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1947",
+    "name": "Rutgers",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "10/11/1947 Princeton: 7 / Rutgers: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1947",
+    "name": "Colgate",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "10/18/1947 Princeton: 20 / Colgate: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1947",
+    "name": "Cornell",
+    "princeton": 21,
+    "opponent": 28,
+    "description": "10/25/1947 Princeton: 21 / Cornell: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1947",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 26,
+    "description": "11/1/1947 Princeton: 7 / Penn: 26",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/8/1947",
+    "name": "Harvard",
+    "princeton": 33,
+    "opponent": 7,
+    "description": "11/8/1947 Princeton: 33 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1947",
+    "name": "Yale",
+    "princeton": 17,
+    "opponent": 0,
+    "description": "11/15/1947 Princeton: 17 / Yale: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/22/1947",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 12,
+    "description": "11/22/1947 Princeton: 14 / Dartmouth: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1948",
+    "name": "Brown",
+    "princeton": 20,
+    "opponent": 23,
+    "description": "10/2/1948 Princeton: 20 / Brown: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1948",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 29,
+    "description": "10/9/1948 Princeton: 7 / Penn: 29",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1948",
+    "name": "Rutgers",
+    "princeton": 6,
+    "opponent": 22,
+    "description": "10/16/1948 Princeton: 6 / Rutgers: 22",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1948",
+    "name": "Columbia",
+    "princeton": 16,
+    "opponent": 14,
+    "description": "10/23/1948 Princeton: 16 / Columbia: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/30/1948",
+    "name": "UVA",
+    "princeton": 55,
+    "opponent": 14,
+    "description": "10/30/1948 Princeton: 55 / UVA: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1948",
+    "name": "Harvard",
+    "princeton": 47,
+    "opponent": 7,
+    "description": "11/6/1948 Princeton: 47 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1948",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "11/13/1948 Princeton: 20 / Yale: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/1948",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 33,
+    "description": "11/20/1948 Princeton: 13 / Dartmouth: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/1949",
+    "name": "Lafayette",
+    "princeton": 26,
+    "opponent": 14,
+    "description": "9/24/1949 Princeton: 26 / Lafayette: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1949",
+    "name": "Navy",
+    "princeton": 7,
+    "opponent": 28,
+    "description": "10/1/1949 Princeton: 7 / Navy: 28",
+    "win": "L",
+    "H/A/N": "N"
+  },
+  {
+    "date": "10/8/1949",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 14,
+    "description": "10/8/1949 Princeton: 13 / Penn: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1949",
+    "name": "Brown",
+    "princeton": 27,
+    "opponent": 14,
+    "description": "10/15/1949 Princeton: 27 / Brown: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1949",
+    "name": "Cornell",
+    "princeton": 12,
+    "opponent": 14,
+    "description": "10/22/1949 Princeton: 12 / Cornell: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1949",
+    "name": "Rutgers",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "10/29/1949 Princeton: 34 / Rutgers: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1949",
+    "name": "Harvard",
+    "princeton": 33,
+    "opponent": 13,
+    "description": "11/5/1949 Princeton: 33 / Harvard: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/12/1949",
+    "name": "Yale",
+    "princeton": 21,
+    "opponent": 13,
+    "description": "11/12/1949 Princeton: 21 / Yale: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/1949",
+    "name": "Dartmouth",
+    "princeton": 19,
+    "opponent": 13,
+    "description": "11/19/1949 Princeton: 19 / Dartmouth: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1950",
+    "name": "Williams",
+    "princeton": 66,
+    "opponent": 0,
+    "description": "9/30/1950 Princeton: 66 / Williams: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1950",
+    "name": "Rutgers",
+    "princeton": 34,
+    "opponent": 28,
+    "description": "10/7/1950 Princeton: 34 / Rutgers: 28",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1950",
+    "name": "Navy",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "10/14/1950 Princeton: 20 / Navy: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1950",
+    "name": "Brown",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/21/1950 Princeton: 34 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/28/1950",
+    "name": "Cornell",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/28/1950 Princeton: 27 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1950",
+    "name": "Colgate",
+    "princeton": 45,
+    "opponent": 7,
+    "description": "11/4/1950 Princeton: 45 / Colgate: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1950",
+    "name": "Harvard",
+    "princeton": 63,
+    "opponent": 26,
+    "description": "11/11/1950 Princeton: 63 / Harvard: 26",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1950",
+    "name": "Yale",
+    "princeton": 47,
+    "opponent": 12,
+    "description": "11/18/1950 Princeton: 47 / Yale: 12",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/25/1950",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 7,
+    "description": "11/25/1950 Princeton: 13 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/1951",
+    "name": "NYU",
+    "princeton": 54,
+    "opponent": 20,
+    "description": "9/29/1951 Princeton: 54 / NYU: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1951",
+    "name": "Navy",
+    "princeton": 24,
+    "opponent": 20,
+    "description": "10/6/1951 Princeton: 24 / Navy: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/13/1951",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 7,
+    "description": "10/13/1951 Princeton: 13 / Penn: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1951",
+    "name": "Lafayette",
+    "princeton": 60,
+    "opponent": 7,
+    "description": "10/20/1951 Princeton: 60 / Lafayette: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1951",
+    "name": "Cornell",
+    "princeton": 53,
+    "opponent": 15,
+    "description": "10/27/1951 Princeton: 53 / Cornell: 15",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1951",
+    "name": "Brown",
+    "princeton": 12,
+    "opponent": 0,
+    "description": "11/3/1951 Princeton: 12 / Brown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1951",
+    "name": "Harvard",
+    "princeton": 54,
+    "opponent": 13,
+    "description": "11/10/1951 Princeton: 54 / Harvard: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/1951",
+    "name": "Yale",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "11/17/1951 Princeton: 27 / Yale: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/24/1951",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "11/24/1951 Princeton: 13 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/1952",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 0,
+    "description": "9/27/1952 Princeton: 14 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/1952",
+    "name": "Rutgers",
+    "princeton": 61,
+    "opponent": 19,
+    "description": "10/4/1952 Princeton: 61 / Rutgers: 19",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1952",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "10/11/1952 Princeton: 7 / Penn: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/1952",
+    "name": "Lafayette",
+    "princeton": 48,
+    "opponent": 0,
+    "description": "10/18/1952 Princeton: 48 / Lafayette: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1952",
+    "name": "Cornell",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/25/1952 Princeton: 27 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/1/1952",
+    "name": "Brown",
+    "princeton": 39,
+    "opponent": 0,
+    "description": "11/1/1952 Princeton: 39 / Brown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1952",
+    "name": "Harvard",
+    "princeton": 41,
+    "opponent": 21,
+    "description": "11/8/1952 Princeton: 41 / Harvard: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1952",
+    "name": "Yale",
+    "princeton": 27,
+    "opponent": 21,
+    "description": "11/15/1952 Princeton: 27 / Yale: 21",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/1952",
+    "name": "Dartmouth",
+    "princeton": 33,
+    "opponent": 0,
+    "description": "11/22/1952 Princeton: 33 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1953",
+    "name": "Lafayette",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "9/26/1953 Princeton: 20 / Lafayette: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1953",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 19,
+    "description": "10/3/1953 Princeton: 20 / Columbia: 19",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1953",
+    "name": "Rutgers",
+    "princeton": 9,
+    "opponent": 7,
+    "description": "10/10/1953 Princeton: 9 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1953",
+    "name": "Navy",
+    "princeton": 7,
+    "opponent": 65,
+    "description": "10/17/1953 Princeton: 7 / Navy: 65",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1953",
+    "name": "Cornell",
+    "princeton": 19,
+    "opponent": 26,
+    "description": "10/24/1953 Princeton: 19 / Cornell: 26",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1953",
+    "name": "Brown",
+    "princeton": 27,
+    "opponent": 13,
+    "description": "10/31/1953 Princeton: 27 / Brown: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1953",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 0,
+    "description": "11/7/1953 Princeton: 6 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/14/1953",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 26,
+    "description": "11/14/1953 Princeton: 24 / Yale: 26",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/1953",
+    "name": "Dartmouth",
+    "princeton": 12,
+    "opponent": 34,
+    "description": "11/21/1953 Princeton: 12 / Dartmouth: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1954",
+    "name": "Rutgers",
+    "princeton": 10,
+    "opponent": 8,
+    "description": "9/25/1954 Princeton: 10 / Rutgers: 8",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1954",
+    "name": "Columbia",
+    "princeton": 54,
+    "opponent": 20,
+    "description": "10/2/1954 Princeton: 54 / Columbia: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/1954",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 7,
+    "description": "10/9/1954 Princeton: 13 / Penn: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/1954",
+    "name": "Brown",
+    "princeton": 20,
+    "opponent": 21,
+    "description": "10/16/1954 Princeton: 20 / Brown: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/23/1954",
+    "name": "Cornell",
+    "princeton": 0,
+    "opponent": 27,
+    "description": "10/23/1954 Princeton: 0 / Cornell: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1954",
+    "name": "Colgate",
+    "princeton": 6,
+    "opponent": 6,
+    "description": "10/30/1954 Princeton: 6 / Colgate: 6",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1954",
+    "name": "Harvard",
+    "princeton": 9,
+    "opponent": 14,
+    "description": "11/6/1954 Princeton: 9 / Harvard: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1954",
+    "name": "Yale",
+    "princeton": 21,
+    "opponent": 14,
+    "description": "11/13/1954 Princeton: 21 / Yale: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/1954",
+    "name": "Dartmouth",
+    "princeton": 49,
+    "opponent": 7,
+    "description": "11/20/1954 Princeton: 49 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/1955",
+    "name": "Rutgers",
+    "princeton": 41,
+    "opponent": 7,
+    "description": "9/24/1955 Princeton: 41 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1955",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "10/1/1955 Princeton: 20 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1955",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "10/8/1955 Princeton: 7 / Penn: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/1955",
+    "name": "Colgate",
+    "princeton": 6,
+    "opponent": 15,
+    "description": "10/15/1955 Princeton: 6 / Colgate: 15",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1955",
+    "name": "Cornell",
+    "princeton": 26,
+    "opponent": 20,
+    "description": "10/22/1955 Princeton: 26 / Cornell: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/1955",
+    "name": "Brown",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/29/1955 Princeton: 14 / Brown: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1955",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 7,
+    "description": "11/5/1955 Princeton: 6 / Harvard: 7",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/12/1955",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 0,
+    "description": "11/12/1955 Princeton: 13 / Yale: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/1955",
+    "name": "Dartmouth",
+    "princeton": 6,
+    "opponent": 3,
+    "description": "11/19/1955 Princeton: 6 / Dartmouth: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/1956",
+    "name": "Rutgers",
+    "princeton": 28,
+    "opponent": 6,
+    "description": "9/29/1956 Princeton: 28 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1956",
+    "name": "Columbia",
+    "princeton": 39,
+    "opponent": 0,
+    "description": "10/6/1956 Princeton: 39 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1956",
+    "name": "Penn",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/13/1956 Princeton: 34 / Penn: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1956",
+    "name": "Colgate",
+    "princeton": 28,
+    "opponent": 20,
+    "description": "10/20/1956 Princeton: 28 / Colgate: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1956",
+    "name": "Cornell",
+    "princeton": 32,
+    "opponent": 21,
+    "description": "10/27/1956 Princeton: 32 / Cornell: 21",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/3/1956",
+    "name": "Brown",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "11/3/1956 Princeton: 21 / Brown: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1956",
+    "name": "Harvard",
+    "princeton": 35,
+    "opponent": 20,
+    "description": "11/10/1956 Princeton: 35 / Harvard: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1956",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 42,
+    "description": "11/17/1956 Princeton: 20 / Yale: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/24/1956",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 19,
+    "description": "11/24/1956 Princeton: 0 / Dartmouth: 19",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/1957",
+    "name": "Rutgers",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "9/28/1957 Princeton: 7 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1957",
+    "name": "Columbia",
+    "princeton": 47,
+    "opponent": 6,
+    "description": "10/5/1957 Princeton: 47 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/12/1957",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 9,
+    "description": "10/12/1957 Princeton: 13 / Penn: 9",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1957",
+    "name": "Colgate",
+    "princeton": 10,
+    "opponent": 12,
+    "description": "10/19/1957 Princeton: 10 / Colgate: 12",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1957",
+    "name": "Cornell",
+    "princeton": 47,
+    "opponent": 14,
+    "description": "10/26/1957 Princeton: 47 / Cornell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1957",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "11/2/1957 Princeton: 7 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1957",
+    "name": "Harvard",
+    "princeton": 28,
+    "opponent": 20,
+    "description": "11/9/1957 Princeton: 28 / Harvard: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/16/1957",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 20,
+    "description": "11/16/1957 Princeton: 13 / Yale: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/1957",
+    "name": "Dartmouth",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "11/23/1957 Princeton: 34 / Dartmouth: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/1958",
+    "name": "Rutgers",
+    "princeton": 0,
+    "opponent": 28,
+    "description": "9/27/1958 Princeton: 0 / Rutgers: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1958",
+    "name": "Columbia",
+    "princeton": 43,
+    "opponent": 8,
+    "description": "10/4/1958 Princeton: 43 / Columbia: 8",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1958",
+    "name": "Penn",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "10/11/1958 Princeton: 20 / Penn: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1958",
+    "name": "Colgate",
+    "princeton": 40,
+    "opponent": 13,
+    "description": "10/18/1958 Princeton: 40 / Colgate: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1958",
+    "name": "Cornell",
+    "princeton": 8,
+    "opponent": 34,
+    "description": "10/25/1958 Princeton: 8 / Cornell: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/1/1958",
+    "name": "Brown",
+    "princeton": 28,
+    "opponent": 18,
+    "description": "11/1/1958 Princeton: 28 / Brown: 18",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1958",
+    "name": "Harvard",
+    "princeton": 16,
+    "opponent": 14,
+    "description": "11/8/1958 Princeton: 16 / Harvard: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1958",
+    "name": "Yale",
+    "princeton": 50,
+    "opponent": 14,
+    "description": "11/15/1958 Princeton: 50 / Yale: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/1958",
+    "name": "Dartmouth",
+    "princeton": 12,
+    "opponent": 21,
+    "description": "11/22/1958 Princeton: 12 / Dartmouth: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1959",
+    "name": "Rutgers",
+    "princeton": 6,
+    "opponent": 8,
+    "description": "9/26/1959 Princeton: 6 / Rutgers: 8",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1959",
+    "name": "Columbia",
+    "princeton": 22,
+    "opponent": 0,
+    "description": "10/3/1959 Princeton: 22 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/10/1959",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 18,
+    "description": "10/10/1959 Princeton: 0 / Penn: 18",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1959",
+    "name": "Colgate",
+    "princeton": 42,
+    "opponent": 7,
+    "description": "10/17/1959 Princeton: 42 / Colgate: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1959",
+    "name": "Cornell",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/24/1959 Princeton: 20 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1959",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "10/31/1959 Princeton: 7 / Brown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/1959",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 14,
+    "description": "11/7/1959 Princeton: 0 / Harvard: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/14/1959",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 38,
+    "description": "11/14/1959 Princeton: 20 / Yale: 38",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/1959",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 12,
+    "description": "11/21/1959 Princeton: 7 / Dartmouth: 12",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/1960",
+    "name": "Rutgers",
+    "princeton": 8,
+    "opponent": 13,
+    "description": "9/24/1960 Princeton: 8 / Rutgers: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1960",
+    "name": "Columbia",
+    "princeton": 49,
+    "opponent": 0,
+    "description": "10/1/1960 Princeton: 49 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1960",
+    "name": "Penn",
+    "princeton": 21,
+    "opponent": 0,
+    "description": "10/8/1960 Princeton: 21 / Penn: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/1960",
+    "name": "Colgate",
+    "princeton": 36,
+    "opponent": 26,
+    "description": "10/15/1960 Princeton: 36 / Colgate: 26",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1960",
+    "name": "Cornell",
+    "princeton": 21,
+    "opponent": 18,
+    "description": "10/22/1960 Princeton: 21 / Cornell: 18",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1960",
+    "name": "Brown",
+    "princeton": 54,
+    "opponent": 21,
+    "description": "10/29/1960 Princeton: 54 / Brown: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1960",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 12,
+    "description": "11/5/1960 Princeton: 14 / Harvard: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1960",
+    "name": "Yale",
+    "princeton": 22,
+    "opponent": 43,
+    "description": "11/12/1960 Princeton: 22 / Yale: 43",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/1960",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "11/19/1960 Princeton: 7 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1961",
+    "name": "Rutgers",
+    "princeton": 13,
+    "opponent": 16,
+    "description": "9/30/1961 Princeton: 13 / Rutgers: 16",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1961",
+    "name": "Columbia",
+    "princeton": 30,
+    "opponent": 20,
+    "description": "10/7/1961 Princeton: 30 / Columbia: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/1961",
+    "name": "Penn",
+    "princeton": 9,
+    "opponent": 3,
+    "description": "10/14/1961 Princeton: 9 / Penn: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1961",
+    "name": "Colgate",
+    "princeton": 0,
+    "opponent": 15,
+    "description": "10/21/1961 Princeton: 0 / Colgate: 15",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1961",
+    "name": "Cornell",
+    "princeton": 30,
+    "opponent": 25,
+    "description": "10/28/1961 Princeton: 30 / Cornell: 25",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1961",
+    "name": "Brown",
+    "princeton": 52,
+    "opponent": 0,
+    "description": "11/4/1961 Princeton: 52 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/1961",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 9,
+    "description": "11/11/1961 Princeton: 7 / Harvard: 9",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/1961",
+    "name": "Yale",
+    "princeton": 26,
+    "opponent": 16,
+    "description": "11/18/1961 Princeton: 26 / Yale: 16",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/25/1961",
+    "name": "Dartmouth",
+    "princeton": 6,
+    "opponent": 24,
+    "description": "11/25/1961 Princeton: 6 / Dartmouth: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/1962",
+    "name": "Rutgers",
+    "princeton": 15,
+    "opponent": 7,
+    "description": "9/29/1962 Princeton: 15 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1962",
+    "name": "Columbia",
+    "princeton": 33,
+    "opponent": 0,
+    "description": "10/6/1962 Princeton: 33 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1962",
+    "name": "Penn",
+    "princeton": 21,
+    "opponent": 8,
+    "description": "10/13/1962 Princeton: 21 / Penn: 8",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1962",
+    "name": "Colgate",
+    "princeton": 15,
+    "opponent": 16,
+    "description": "10/20/1962 Princeton: 15 / Colgate: 16",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1962",
+    "name": "Cornell",
+    "princeton": 34,
+    "opponent": 35,
+    "description": "10/27/1962 Princeton: 34 / Cornell: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/3/1962",
+    "name": "Brown",
+    "princeton": 28,
+    "opponent": 12,
+    "description": "11/3/1962 Princeton: 28 / Brown: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1962",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 20,
+    "description": "11/10/1962 Princeton: 0 / Harvard: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1962",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 10,
+    "description": "11/17/1962 Princeton: 14 / Yale: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/24/1962",
+    "name": "Dartmouth",
+    "princeton": 27,
+    "opponent": 38,
+    "description": "11/24/1962 Princeton: 27 / Dartmouth: 38",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/1963",
+    "name": "Rutgers",
+    "princeton": 24,
+    "opponent": 0,
+    "description": "9/28/1963 Princeton: 24 / Rutgers: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1963",
+    "name": "Columbia",
+    "princeton": 7,
+    "opponent": 6,
+    "description": "10/5/1963 Princeton: 7 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/12/1963",
+    "name": "Penn",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "10/12/1963 Princeton: 34 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1963",
+    "name": "Colgate",
+    "princeton": 42,
+    "opponent": 0,
+    "description": "10/19/1963 Princeton: 42 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1963",
+    "name": "Cornell",
+    "princeton": 51,
+    "opponent": 14,
+    "description": "10/26/1963 Princeton: 51 / Cornell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1963",
+    "name": "Brown",
+    "princeton": 34,
+    "opponent": 13,
+    "description": "11/2/1963 Princeton: 34 / Brown: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/9/1963",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 21,
+    "description": "11/9/1963 Princeton: 7 / Harvard: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/16/1963",
+    "name": "Yale",
+    "princeton": 27,
+    "opponent": 7,
+    "description": "11/16/1963 Princeton: 27 / Yale: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/30/1963",
+    "name": "Dartmouth",
+    "princeton": 21,
+    "opponent": 22,
+    "description": "11/30/1963 Princeton: 21 / Dartmouth: 22",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1964",
+    "name": "Rutgers",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "9/26/1964 Princeton: 10 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1964",
+    "name": "Columbia",
+    "princeton": 23,
+    "opponent": 13,
+    "description": "10/3/1964 Princeton: 23 / Columbia: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1964",
+    "name": "Dartmouth",
+    "princeton": 37,
+    "opponent": 7,
+    "description": "10/10/1964 Princeton: 37 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/17/1964",
+    "name": "Colgate",
+    "princeton": 9,
+    "opponent": 0,
+    "description": "10/17/1964 Princeton: 9 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1964",
+    "name": "Penn",
+    "princeton": 55,
+    "opponent": 0,
+    "description": "10/24/1964 Princeton: 55 / Penn: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/1964",
+    "name": "Brown",
+    "princeton": 14,
+    "opponent": 0,
+    "description": "10/31/1964 Princeton: 14 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1964",
+    "name": "Harvard",
+    "princeton": 16,
+    "opponent": 0,
+    "description": "11/7/1964 Princeton: 16 / Harvard: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1964",
+    "name": "Yale",
+    "princeton": 35,
+    "opponent": 14,
+    "description": "11/14/1964 Princeton: 35 / Yale: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/21/1964",
+    "name": "Cornell",
+    "princeton": 17,
+    "opponent": 12,
+    "description": "11/21/1964 Princeton: 17 / Cornell: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1965",
+    "name": "Rutgers",
+    "princeton": 32,
+    "opponent": 6,
+    "description": "9/25/1965 Princeton: 32 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1965",
+    "name": "Columbia",
+    "princeton": 31,
+    "opponent": 0,
+    "description": "10/2/1965 Princeton: 31 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/1965",
+    "name": "Cornell",
+    "princeton": 36,
+    "opponent": 27,
+    "description": "10/9/1965 Princeton: 36 / Cornell: 27",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1965",
+    "name": "Colgate",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/16/1965 Princeton: 27 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1965",
+    "name": "Penn",
+    "princeton": 51,
+    "opponent": 0,
+    "description": "10/23/1965 Princeton: 51 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1965",
+    "name": "Brown",
+    "princeton": 45,
+    "opponent": 27,
+    "description": "10/30/1965 Princeton: 45 / Brown: 27",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1965",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 6,
+    "description": "11/6/1965 Princeton: 14 / Harvard: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1965",
+    "name": "Yale",
+    "princeton": 31,
+    "opponent": 6,
+    "description": "11/13/1965 Princeton: 31 / Yale: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/20/1965",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 28,
+    "description": "11/20/1965 Princeton: 14 / Dartmouth: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/1966",
+    "name": "Rutgers",
+    "princeton": 16,
+    "opponent": 12,
+    "description": "9/24/1966 Princeton: 16 / Rutgers: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1966",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 12,
+    "description": "10/1/1966 Princeton: 14 / Columbia: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1966",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 31,
+    "description": "10/8/1966 Princeton: 13 / Dartmouth: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/1966",
+    "name": "Colgate",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "10/15/1966 Princeton: 0 / Colgate: 7",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1966",
+    "name": "Penn",
+    "princeton": 30,
+    "opponent": 13,
+    "description": "10/22/1966 Princeton: 30 / Penn: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1966",
+    "name": "Brown",
+    "princeton": 24,
+    "opponent": 7,
+    "description": "10/29/1966 Princeton: 24 / Brown: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1966",
+    "name": "Harvard",
+    "princeton": 18,
+    "opponent": 14,
+    "description": "11/5/1966 Princeton: 18 / Harvard: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1966",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 7,
+    "description": "11/12/1966 Princeton: 13 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/1966",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 0,
+    "description": "11/19/1966 Princeton: 7 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1967",
+    "name": "Rutgers",
+    "princeton": 22,
+    "opponent": 21,
+    "description": "9/30/1967 Princeton: 22 / Rutgers: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1967",
+    "name": "Columbia",
+    "princeton": 28,
+    "opponent": 14,
+    "description": "10/7/1967 Princeton: 28 / Columbia: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/1967",
+    "name": "Cornell",
+    "princeton": 13,
+    "opponent": 47,
+    "description": "10/14/1967 Princeton: 13 / Cornell: 47",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/21/1967",
+    "name": "Colgate",
+    "princeton": 28,
+    "opponent": 0,
+    "description": "10/21/1967 Princeton: 28 / Colgate: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1967",
+    "name": "Penn",
+    "princeton": 28,
+    "opponent": 14,
+    "description": "10/28/1967 Princeton: 28 / Penn: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1967",
+    "name": "Brown",
+    "princeton": 48,
+    "opponent": 14,
+    "description": "11/4/1967 Princeton: 48 / Brown: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1967",
+    "name": "Harvard",
+    "princeton": 45,
+    "opponent": 6,
+    "description": "11/11/1967 Princeton: 45 / Harvard: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/1967",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 29,
+    "description": "11/18/1967 Princeton: 7 / Yale: 29",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/25/1967",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 17,
+    "description": "11/25/1967 Princeton: 14 / Dartmouth: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/1968",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 20,
+    "description": "9/28/1968 Princeton: 14 / Rutgers: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1968",
+    "name": "Columbia",
+    "princeton": 44,
+    "opponent": 16,
+    "description": "10/5/1968 Princeton: 44 / Columbia: 16",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1968",
+    "name": "Dartmouth",
+    "princeton": 34,
+    "opponent": 7,
+    "description": "10/12/1968 Princeton: 34 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/19/1968",
+    "name": "Colgate",
+    "princeton": 7,
+    "opponent": 14,
+    "description": "10/19/1968 Princeton: 7 / Colgate: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1968",
+    "name": "Penn",
+    "princeton": 14,
+    "opponent": 19,
+    "description": "10/26/1968 Princeton: 14 / Penn: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/1968",
+    "name": "Brown",
+    "princeton": 50,
+    "opponent": 7,
+    "description": "11/2/1968 Princeton: 50 / Brown: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1968",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 9,
+    "description": "11/9/1968 Princeton: 7 / Harvard: 9",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1968",
+    "name": "Yale",
+    "princeton": 17,
+    "opponent": 42,
+    "description": "11/16/1968 Princeton: 17 / Yale: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/23/1968",
+    "name": "Cornell",
+    "princeton": 41,
+    "opponent": 13,
+    "description": "11/23/1968 Princeton: 41 / Cornell: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/1969",
+    "name": "Rutgers",
+    "princeton": 0,
+    "opponent": 29,
+    "description": "9/27/1969 Princeton: 0 / Rutgers: 29",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/1969",
+    "name": "Columbia",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "10/4/1969 Princeton: 21 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/11/1969",
+    "name": "Cornell",
+    "princeton": 24,
+    "opponent": 17,
+    "description": "10/11/1969 Princeton: 24 / Cornell: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1969",
+    "name": "Colgate",
+    "princeton": 28,
+    "opponent": 35,
+    "description": "10/18/1969 Princeton: 28 / Colgate: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1969",
+    "name": "Penn",
+    "princeton": 42,
+    "opponent": 0,
+    "description": "10/25/1969 Princeton: 42 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1969",
+    "name": "Brown",
+    "princeton": 33,
+    "opponent": 6,
+    "description": "11/1/1969 Princeton: 33 / Brown: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1969",
+    "name": "Harvard",
+    "princeton": 51,
+    "opponent": 20,
+    "description": "11/8/1969 Princeton: 51 / Harvard: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1969",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 17,
+    "description": "11/15/1969 Princeton: 14 / Yale: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/22/1969",
+    "name": "Dartmouth",
+    "princeton": 35,
+    "opponent": 7,
+    "description": "11/22/1969 Princeton: 35 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1970",
+    "name": "Rutgers",
+    "princeton": 41,
+    "opponent": 14,
+    "description": "9/26/1970 Princeton: 41 / Rutgers: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1970",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 22,
+    "description": "10/3/1970 Princeton: 24 / Columbia: 22",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/1970",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 38,
+    "description": "10/10/1970 Princeton: 0 / Dartmouth: 38",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/17/1970",
+    "name": "Colgate",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "10/17/1970 Princeton: 34 / Colgate: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1970",
+    "name": "Penn",
+    "princeton": 22,
+    "opponent": 16,
+    "description": "10/24/1970 Princeton: 22 / Penn: 16",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/1970",
+    "name": "Brown",
+    "princeton": 45,
+    "opponent": 14,
+    "description": "10/31/1970 Princeton: 45 / Brown: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1970",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 29,
+    "description": "11/7/1970 Princeton: 7 / Harvard: 29",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1970",
+    "name": "Yale",
+    "princeton": 22,
+    "opponent": 27,
+    "description": "11/14/1970 Princeton: 22 / Yale: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/21/1970",
+    "name": "Cornell",
+    "princeton": 3,
+    "opponent": 6,
+    "description": "11/21/1970 Princeton: 3 / Cornell: 6",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1971",
+    "name": "Rutgers",
+    "princeton": 18,
+    "opponent": 33,
+    "description": "9/25/1971 Princeton: 18 / Rutgers: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1971",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 22,
+    "description": "10/2/1971 Princeton: 20 / Columbia: 22",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/1971",
+    "name": "Cornell",
+    "princeton": 8,
+    "opponent": 19,
+    "description": "10/9/1971 Princeton: 8 / Cornell: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1971",
+    "name": "Colgate",
+    "princeton": 35,
+    "opponent": 12,
+    "description": "10/16/1971 Princeton: 35 / Colgate: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1971",
+    "name": "Penn",
+    "princeton": 31,
+    "opponent": 0,
+    "description": "10/23/1971 Princeton: 31 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1971",
+    "name": "Brown",
+    "princeton": 49,
+    "opponent": 21,
+    "description": "10/30/1971 Princeton: 49 / Brown: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1971",
+    "name": "Harvard",
+    "princeton": 21,
+    "opponent": 10,
+    "description": "11/6/1971 Princeton: 21 / Harvard: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1971",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 10,
+    "description": "11/13/1971 Princeton: 6 / Yale: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/20/1971",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 33,
+    "description": "11/20/1971 Princeton: 7 / Dartmouth: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1972",
+    "name": "Rutgers",
+    "princeton": 7,
+    "opponent": 6,
+    "description": "9/30/1972 Princeton: 7 / Rutgers: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/1972",
+    "name": "Columbia",
+    "princeton": 0,
+    "opponent": 0,
+    "description": "10/7/1972 Princeton: 0 / Columbia: 0",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1972",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 35,
+    "description": "10/14/1972 Princeton: 14 / Dartmouth: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/21/1972",
+    "name": "Colgate",
+    "princeton": 26,
+    "opponent": 35,
+    "description": "10/21/1972 Princeton: 26 / Colgate: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1972",
+    "name": "Penn",
+    "princeton": 10,
+    "opponent": 15,
+    "description": "10/28/1972 Princeton: 10 / Penn: 15",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/4/1972",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 10,
+    "description": "11/4/1972 Princeton: 31 / Brown: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/1972",
+    "name": "Harvard",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "11/11/1972 Princeton: 10 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1972",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 31,
+    "description": "11/18/1972 Princeton: 7 / Yale: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/25/1972",
+    "name": "Cornell",
+    "princeton": 15,
+    "opponent": 22,
+    "description": "11/25/1972 Princeton: 15 / Cornell: 22",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/1973",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 39,
+    "description": "9/29/1973 Princeton: 14 / Rutgers: 39",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1973",
+    "name": "Columbia",
+    "princeton": 13,
+    "opponent": 14,
+    "description": "10/6/1973 Princeton: 13 / Columbia: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/13/1973",
+    "name": "Cornell",
+    "princeton": 6,
+    "opponent": 37,
+    "description": "10/13/1973 Princeton: 6 / Cornell: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1973",
+    "name": "Colgate",
+    "princeton": 37,
+    "opponent": 21,
+    "description": "10/20/1973 Princeton: 37 / Colgate: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1973",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 24,
+    "description": "10/27/1973 Princeton: 0 / Penn: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1973",
+    "name": "Brown",
+    "princeton": 6,
+    "opponent": 7,
+    "description": "11/3/1973 Princeton: 6 / Brown: 7",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1973",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 19,
+    "description": "11/10/1973 Princeton: 14 / Harvard: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/1973",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 30,
+    "description": "11/17/1973 Princeton: 13 / Yale: 30",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/24/1973",
+    "name": "Dartmouth",
+    "princeton": 24,
+    "opponent": 42,
+    "description": "11/24/1973 Princeton: 24 / Dartmouth: 42",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/1974",
+    "name": "Rutgers",
+    "princeton": 6,
+    "opponent": 6,
+    "description": "9/28/1974 Princeton: 6 / Rutgers: 6",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1974",
+    "name": "Columbia",
+    "princeton": 40,
+    "opponent": 13,
+    "description": "10/5/1974 Princeton: 40 / Columbia: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1974",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 7,
+    "description": "10/12/1974 Princeton: 14 / Dartmouth: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/19/1974",
+    "name": "Colgate",
+    "princeton": 33,
+    "opponent": 24,
+    "description": "10/19/1974 Princeton: 33 / Colgate: 24",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1974",
+    "name": "Penn",
+    "princeton": 18,
+    "opponent": 20,
+    "description": "10/26/1974 Princeton: 18 / Penn: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/1974",
+    "name": "Brown",
+    "princeton": 13,
+    "opponent": 17,
+    "description": "11/2/1974 Princeton: 13 / Brown: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1974",
+    "name": "Harvard",
+    "princeton": 17,
+    "opponent": 34,
+    "description": "11/9/1974 Princeton: 17 / Harvard: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1974",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 19,
+    "description": "11/16/1974 Princeton: 6 / Yale: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/23/1974",
+    "name": "Cornell",
+    "princeton": 41,
+    "opponent": 20,
+    "description": "11/23/1974 Princeton: 41 / Cornell: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/1975",
+    "name": "Rutgers",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "9/27/1975 Princeton: 10 / Rutgers: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1975",
+    "name": "Columbia",
+    "princeton": 27,
+    "opponent": 7,
+    "description": "10/4/1975 Princeton: 27 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/11/1975",
+    "name": "Cornell",
+    "princeton": 16,
+    "opponent": 8,
+    "description": "10/11/1975 Princeton: 16 / Cornell: 8",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1975",
+    "name": "Colgate",
+    "princeton": 21,
+    "opponent": 22,
+    "description": "10/18/1975 Princeton: 21 / Colgate: 22",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1975",
+    "name": "Penn",
+    "princeton": 20,
+    "opponent": 24,
+    "description": "10/25/1975 Princeton: 20 / Penn: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1975",
+    "name": "Brown",
+    "princeton": 16,
+    "opponent": 24,
+    "description": "11/1/1975 Princeton: 16 / Brown: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1975",
+    "name": "Harvard",
+    "princeton": 24,
+    "opponent": 20,
+    "description": "11/8/1975 Princeton: 24 / Harvard: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1975",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 24,
+    "description": "11/15/1975 Princeton: 13 / Yale: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/22/1975",
+    "name": "Dartmouth",
+    "princeton": 16,
+    "opponent": 21,
+    "description": "11/22/1975 Princeton: 16 / Dartmouth: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/18/1976",
+    "name": "Cornell",
+    "princeton": 3,
+    "opponent": 0,
+    "description": "9/18/1976 Princeton: 3 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/25/1976",
+    "name": "Rutgers",
+    "princeton": 0,
+    "opponent": 17,
+    "description": "9/25/1976 Princeton: 0 / Rutgers: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1976",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "10/2/1976 Princeton: 7 / Brown: 13",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1976",
+    "name": "Columbia",
+    "princeton": 9,
+    "opponent": 6,
+    "description": "10/9/1976 Princeton: 9 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1976",
+    "name": "Colgate",
+    "princeton": 7,
+    "opponent": 17,
+    "description": "10/16/1976 Princeton: 7 / Colgate: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1976",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 20,
+    "description": "10/23/1976 Princeton: 14 / Harvard: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1976",
+    "name": "Penn",
+    "princeton": 9,
+    "opponent": 10,
+    "description": "10/30/1976 Princeton: 9 / Penn: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1976",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 39,
+    "description": "11/6/1976 Princeton: 7 / Yale: 39",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1976",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 33,
+    "description": "11/13/1976 Princeton: 7 / Dartmouth: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/17/1977",
+    "name": "Dartmouth",
+    "princeton": 11,
+    "opponent": 14,
+    "description": "9/17/1977 Princeton: 11 / Dartmouth: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/1977",
+    "name": "Rutgers",
+    "princeton": 6,
+    "opponent": 10,
+    "description": "9/24/1977 Princeton: 6 / Rutgers: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1977",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 10,
+    "description": "10/1/1977 Princeton: 7 / Brown: 10",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/8/1977",
+    "name": "Columbia",
+    "princeton": 28,
+    "opponent": 7,
+    "description": "10/8/1977 Princeton: 28 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1977",
+    "name": "Colgate",
+    "princeton": 13,
+    "opponent": 31,
+    "description": "10/15/1977 Princeton: 13 / Colgate: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1977",
+    "name": "Harvard",
+    "princeton": 20,
+    "opponent": 7,
+    "description": "10/22/1977 Princeton: 20 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1977",
+    "name": "Penn",
+    "princeton": 10,
+    "opponent": 21,
+    "description": "10/29/1977 Princeton: 10 / Penn: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1977",
+    "name": "Yale",
+    "princeton": 8,
+    "opponent": 44,
+    "description": "11/5/1977 Princeton: 8 / Yale: 44",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1977",
+    "name": "Cornell",
+    "princeton": 34,
+    "opponent": 0,
+    "description": "11/12/1977 Princeton: 34 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/23/1978",
+    "name": "Cornell",
+    "princeton": 14,
+    "opponent": 14,
+    "description": "9/23/1978 Princeton: 14 / Cornell: 14",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/30/1978",
+    "name": "Rutgers",
+    "princeton": 0,
+    "opponent": 24,
+    "description": "9/30/1978 Princeton: 0 / Rutgers: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/1978",
+    "name": "Brown",
+    "princeton": 16,
+    "opponent": 44,
+    "description": "10/7/1978 Princeton: 16 / Brown: 44",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/1978",
+    "name": "Columbia",
+    "princeton": 10,
+    "opponent": 14,
+    "description": "10/14/1978 Princeton: 10 / Columbia: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/21/1978",
+    "name": "Colgate",
+    "princeton": 13,
+    "opponent": 12,
+    "description": "10/21/1978 Princeton: 13 / Colgate: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1978",
+    "name": "Harvard",
+    "princeton": 24,
+    "opponent": 24,
+    "description": "10/28/1978 Princeton: 24 / Harvard: 24",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1978",
+    "name": "Penn",
+    "princeton": 21,
+    "opponent": 0,
+    "description": "11/4/1978 Princeton: 21 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/1978",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 23,
+    "description": "11/11/1978 Princeton: 7 / Yale: 23",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/1978",
+    "name": "Dartmouth",
+    "princeton": 21,
+    "opponent": 28,
+    "description": "11/18/1978 Princeton: 21 / Dartmouth: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/22/1979",
+    "name": "Dartmouth",
+    "princeton": 16,
+    "opponent": 0,
+    "description": "9/22/1979 Princeton: 16 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/29/1979",
+    "name": "Rutgers",
+    "princeton": 14,
+    "opponent": 38,
+    "description": "9/29/1979 Princeton: 14 / Rutgers: 38",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1979",
+    "name": "Brown",
+    "princeton": 12,
+    "opponent": 31,
+    "description": "10/6/1979 Princeton: 12 / Brown: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/13/1979",
+    "name": "Columbia",
+    "princeton": 35,
+    "opponent": 0,
+    "description": "10/13/1979 Princeton: 35 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/1979",
+    "name": "Colgate",
+    "princeton": 6,
+    "opponent": 17,
+    "description": "10/20/1979 Princeton: 6 / Colgate: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1979",
+    "name": "Harvard",
+    "princeton": 9,
+    "opponent": 7,
+    "description": "10/27/1979 Princeton: 9 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/3/1979",
+    "name": "Penn",
+    "princeton": 38,
+    "opponent": 10,
+    "description": "11/3/1979 Princeton: 38 / Penn: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/1979",
+    "name": "Yale",
+    "princeton": 10,
+    "opponent": 35,
+    "description": "11/10/1979 Princeton: 10 / Yale: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/1979",
+    "name": "Cornell",
+    "princeton": 26,
+    "opponent": 14,
+    "description": "11/17/1979 Princeton: 26 / Cornell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/20/1980",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 17,
+    "description": "9/20/1980 Princeton: 7 / Cornell: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/27/1980",
+    "name": "Rutgers",
+    "princeton": 13,
+    "opponent": 44,
+    "description": "9/27/1980 Princeton: 13 / Rutgers: 44",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/1980",
+    "name": "Brown",
+    "princeton": 11,
+    "opponent": 28,
+    "description": "10/4/1980 Princeton: 11 / Brown: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1980",
+    "name": "Columbia",
+    "princeton": 31,
+    "opponent": 19,
+    "description": "10/11/1980 Princeton: 31 / Columbia: 19",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1980",
+    "name": "Colgate",
+    "princeton": 14,
+    "opponent": 10,
+    "description": "10/18/1980 Princeton: 14 / Colgate: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/1980",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 3,
+    "description": "10/25/1980 Princeton: 7 / Harvard: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1980",
+    "name": "Penn",
+    "princeton": 28,
+    "opponent": 21,
+    "description": "11/1/1980 Princeton: 28 / Penn: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1980",
+    "name": "Maine",
+    "princeton": 24,
+    "opponent": 7,
+    "description": "11/8/1980 Princeton: 24 / Maine: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/1980",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 25,
+    "description": "11/15/1980 Princeton: 13 / Yale: 25",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/1980",
+    "name": "Dartmouth",
+    "princeton": 27,
+    "opponent": 24,
+    "description": "11/22/1980 Princeton: 27 / Dartmouth: 24",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/19/1981",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 32,
+    "description": "9/19/1981 Princeton: 13 / Dartmouth: 32",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/26/1981",
+    "name": "Delaware",
+    "princeton": 8,
+    "opponent": 61,
+    "description": "9/26/1981 Princeton: 8 / Delaware: 61",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/3/1981",
+    "name": "Brown",
+    "princeton": 20,
+    "opponent": 17,
+    "description": "10/3/1981 Princeton: 20 / Brown: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/10/1981",
+    "name": "Columbia",
+    "princeton": 21,
+    "opponent": 14,
+    "description": "10/10/1981 Princeton: 21 / Columbia: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1981",
+    "name": "Army",
+    "princeton": 0,
+    "opponent": 34,
+    "description": "10/17/1981 Princeton: 0 / Army: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1981",
+    "name": "Harvard",
+    "princeton": 17,
+    "opponent": 17,
+    "description": "10/24/1981 Princeton: 17 / Harvard: 17",
+    "win": "T",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/1981",
+    "name": "Penn",
+    "princeton": 38,
+    "opponent": 30,
+    "description": "10/31/1981 Princeton: 38 / Penn: 30",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1981",
+    "name": "Maine",
+    "princeton": 44,
+    "opponent": 55,
+    "description": "11/7/1981 Princeton: 44 / Maine: 55",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1981",
+    "name": "Yale",
+    "princeton": 35,
+    "opponent": 31,
+    "description": "11/14/1981 Princeton: 35 / Yale: 31",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/1981",
+    "name": "Cornell",
+    "princeton": 37,
+    "opponent": 14,
+    "description": "11/21/1981 Princeton: 37 / Cornell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/18/1982",
+    "name": "Cornell",
+    "princeton": 41,
+    "opponent": 36,
+    "description": "9/18/1982 Princeton: 41 / Cornell: 36",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/25/1982",
+    "name": "Delaware",
+    "princeton": 17,
+    "opponent": 35,
+    "description": "9/25/1982 Princeton: 17 / Delaware: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/1982",
+    "name": "Brown",
+    "princeton": 28,
+    "opponent": 23,
+    "description": "10/2/1982 Princeton: 28 / Brown: 23",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1982",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 35,
+    "description": "10/9/1982 Princeton: 14 / Columbia: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1982",
+    "name": "Army",
+    "princeton": 14,
+    "opponent": 20,
+    "description": "10/16/1982 Princeton: 14 / Army: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1982",
+    "name": "Harvard",
+    "princeton": 15,
+    "opponent": 27,
+    "description": "10/23/1982 Princeton: 15 / Harvard: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/1982",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "10/30/1982 Princeton: 17 / Penn: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1982",
+    "name": "Lafayette",
+    "princeton": 37,
+    "opponent": 47,
+    "description": "11/6/1982 Princeton: 37 / Lafayette: 47",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/1982",
+    "name": "Yale",
+    "princeton": 19,
+    "opponent": 37,
+    "description": "11/13/1982 Princeton: 19 / Yale: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/1982",
+    "name": "Dartmouth",
+    "princeton": 20,
+    "opponent": 34,
+    "description": "11/20/1982 Princeton: 20 / Dartmouth: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/17/1983",
+    "name": "Dartmouth",
+    "princeton": 3,
+    "opponent": 21,
+    "description": "9/17/1983 Princeton: 3 / Dartmouth: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/1983",
+    "name": "Bucknell",
+    "princeton": 46,
+    "opponent": 28,
+    "description": "9/24/1983 Princeton: 46 / Bucknell: 28",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1983",
+    "name": "Brown",
+    "princeton": 27,
+    "opponent": 16,
+    "description": "10/1/1983 Princeton: 27 / Brown: 16",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/8/1983",
+    "name": "Columbia",
+    "princeton": 35,
+    "opponent": 26,
+    "description": "10/8/1983 Princeton: 35 / Columbia: 26",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1983",
+    "name": "Navy",
+    "princeton": 29,
+    "opponent": 37,
+    "description": "10/15/1983 Princeton: 29 / Navy: 37",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/1983",
+    "name": "Harvard",
+    "princeton": 26,
+    "opponent": 28,
+    "description": "10/22/1983 Princeton: 26 / Harvard: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/1983",
+    "name": "Penn",
+    "princeton": 27,
+    "opponent": 28,
+    "description": "10/29/1983 Princeton: 27 / Penn: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1983",
+    "name": "Lafayette",
+    "princeton": 41,
+    "opponent": 33,
+    "description": "11/5/1983 Princeton: 41 / Lafayette: 33",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1983",
+    "name": "Yale",
+    "princeton": 21,
+    "opponent": 28,
+    "description": "11/12/1983 Princeton: 21 / Yale: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/1983",
+    "name": "Cornell",
+    "princeton": 30,
+    "opponent": 32,
+    "description": "11/19/1983 Princeton: 30 / Cornell: 32",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/22/1984",
+    "name": "Cornell",
+    "princeton": 17,
+    "opponent": 9,
+    "description": "9/22/1984 Princeton: 17 / Cornell: 9",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/29/1984",
+    "name": "Bucknell",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "9/29/1984 Princeton: 20 / Bucknell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/1984",
+    "name": "Brown",
+    "princeton": 30,
+    "opponent": 32,
+    "description": "10/6/1984 Princeton: 30 / Brown: 32",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1984",
+    "name": "Columbia",
+    "princeton": 38,
+    "opponent": 8,
+    "description": "10/13/1984 Princeton: 38 / Columbia: 8",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1984",
+    "name": "Navy",
+    "princeton": 3,
+    "opponent": 41,
+    "description": "10/20/1984 Princeton: 3 / Navy: 41",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/27/1984",
+    "name": "Harvard",
+    "princeton": 15,
+    "opponent": 17,
+    "description": "10/27/1984 Princeton: 15 / Harvard: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/1984",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 27,
+    "description": "11/3/1984 Princeton: 17 / Penn: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1984",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 27,
+    "description": "11/10/1984 Princeton: 24 / Yale: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/1984",
+    "name": "Dartmouth",
+    "princeton": 21,
+    "opponent": 17,
+    "description": "11/17/1984 Princeton: 21 / Dartmouth: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/21/1985",
+    "name": "Dartmouth",
+    "princeton": 10,
+    "opponent": 3,
+    "description": "9/21/1985 Princeton: 10 / Dartmouth: 3",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/28/1985",
+    "name": "Lehigh",
+    "princeton": 13,
+    "opponent": 34,
+    "description": "9/28/1985 Princeton: 13 / Lehigh: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1985",
+    "name": "Brown",
+    "princeton": 0,
+    "opponent": 17,
+    "description": "10/5/1985 Princeton: 0 / Brown: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/12/1985",
+    "name": "Columbia",
+    "princeton": 31,
+    "opponent": 0,
+    "description": "10/12/1985 Princeton: 31 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1985",
+    "name": "Colgate",
+    "princeton": 44,
+    "opponent": 49,
+    "description": "10/19/1985 Princeton: 44 / Colgate: 49",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1985",
+    "name": "Harvard",
+    "princeton": 11,
+    "opponent": 6,
+    "description": "10/26/1985 Princeton: 11 / Harvard: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/1985",
+    "name": "Penn",
+    "princeton": 21,
+    "opponent": 31,
+    "description": "11/2/1985 Princeton: 21 / Penn: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1985",
+    "name": "William & Mary",
+    "princeton": 28,
+    "opponent": 33,
+    "description": "11/9/1985 Princeton: 28 / William & Mary: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1985",
+    "name": "Yale",
+    "princeton": 21,
+    "opponent": 12,
+    "description": "11/16/1985 Princeton: 21 / Yale: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/1985",
+    "name": "Cornell",
+    "princeton": 33,
+    "opponent": 27,
+    "description": "11/23/1985 Princeton: 33 / Cornell: 27",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/20/1986",
+    "name": "Cornell",
+    "princeton": 8,
+    "opponent": 39,
+    "description": "9/20/1986 Princeton: 8 / Cornell: 39",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/27/1986",
+    "name": "Northwestern",
+    "princeton": 0,
+    "opponent": 37,
+    "description": "9/27/1986 Princeton: 0 / Northwestern: 37",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/1986",
+    "name": "Brown",
+    "princeton": 10,
+    "opponent": 24,
+    "description": "10/4/1986 Princeton: 10 / Brown: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/1986",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "10/11/1986 Princeton: 20 / Columbia: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1986",
+    "name": "Lehigh",
+    "princeton": 28,
+    "opponent": 48,
+    "description": "10/18/1986 Princeton: 28 / Lehigh: 48",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/25/1986",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 3,
+    "description": "10/25/1986 Princeton: 14 / Harvard: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/1986",
+    "name": "Penn",
+    "princeton": 10,
+    "opponent": 23,
+    "description": "11/1/1986 Princeton: 10 / Penn: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/1986",
+    "name": "William & Mary",
+    "princeton": 14,
+    "opponent": 32,
+    "description": "11/8/1986 Princeton: 14 / William & Mary: 32",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1986",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 14,
+    "description": "11/15/1986 Princeton: 13 / Yale: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/1986",
+    "name": "Dartmouth",
+    "princeton": 6,
+    "opponent": 28,
+    "description": "11/22/1986 Princeton: 6 / Dartmouth: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/19/1987",
+    "name": "Dartmouth",
+    "princeton": 34,
+    "opponent": 3,
+    "description": "9/19/1987 Princeton: 34 / Dartmouth: 3",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/26/1987",
+    "name": "Davidson",
+    "princeton": 42,
+    "opponent": 6,
+    "description": "9/26/1987 Princeton: 42 / Davidson: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/3/1987",
+    "name": "Brown",
+    "princeton": 7,
+    "opponent": 13,
+    "description": "10/3/1987 Princeton: 7 / Brown: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/10/1987",
+    "name": "Columbia",
+    "princeton": 38,
+    "opponent": 8,
+    "description": "10/10/1987 Princeton: 38 / Columbia: 8",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1987",
+    "name": "Lehigh",
+    "princeton": 16,
+    "opponent": 15,
+    "description": "10/17/1987 Princeton: 16 / Lehigh: 15",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/24/1987",
+    "name": "Harvard",
+    "princeton": 19,
+    "opponent": 24,
+    "description": "10/24/1987 Princeton: 19 / Harvard: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/1987",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 7,
+    "description": "10/31/1987 Princeton: 17 / Penn: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1987",
+    "name": "Colgate",
+    "princeton": 15,
+    "opponent": 39,
+    "description": "11/7/1987 Princeton: 15 / Colgate: 39",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1987",
+    "name": "Yale",
+    "princeton": 19,
+    "opponent": 34,
+    "description": "11/14/1987 Princeton: 19 / Yale: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/1987",
+    "name": "Cornell",
+    "princeton": 23,
+    "opponent": 6,
+    "description": "11/21/1987 Princeton: 23 / Cornell: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/17/1988",
+    "name": "Cornell",
+    "princeton": 26,
+    "opponent": 17,
+    "description": "9/17/1988 Princeton: 26 / Cornell: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/1988",
+    "name": "Holy Cross",
+    "princeton": 26,
+    "opponent": 30,
+    "description": "9/24/1988 Princeton: 26 / Holy Cross: 30",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1988",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 27,
+    "description": "10/1/1988 Princeton: 31 / Brown: 27",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1988",
+    "name": "Columbia",
+    "princeton": 13,
+    "opponent": 16,
+    "description": "10/8/1988 Princeton: 13 / Columbia: 16",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/1988",
+    "name": "Bucknell",
+    "princeton": 41,
+    "opponent": 35,
+    "description": "10/15/1988 Princeton: 41 / Bucknell: 35",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/22/1988",
+    "name": "Harvard",
+    "princeton": 23,
+    "opponent": 8,
+    "description": "10/22/1988 Princeton: 23 / Harvard: 8",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/1988",
+    "name": "Penn",
+    "princeton": 23,
+    "opponent": 31,
+    "description": "10/29/1988 Princeton: 23 / Penn: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/1988",
+    "name": "Colgate",
+    "princeton": 45,
+    "opponent": 13,
+    "description": "11/5/1988 Princeton: 45 / Colgate: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1988",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 7,
+    "description": "11/12/1988 Princeton: 24 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/1988",
+    "name": "Dartmouth",
+    "princeton": 17,
+    "opponent": 24,
+    "description": "11/19/1988 Princeton: 17 / Dartmouth: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/16/1989",
+    "name": "Dartmouth",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "9/16/1989 Princeton: 20 / Dartmouth: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/23/1989",
+    "name": "William & Mary",
+    "princeton": 31,
+    "opponent": 31,
+    "description": "9/23/1989 Princeton: 31 / William & Mary: 31",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1989",
+    "name": "Holy Cross",
+    "princeton": 0,
+    "opponent": 46,
+    "description": "9/30/1989 Princeton: 0 / Holy Cross: 46",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/1989",
+    "name": "Brown",
+    "princeton": 38,
+    "opponent": 15,
+    "description": "10/7/1989 Princeton: 38 / Brown: 15",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/1989",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 8,
+    "description": "10/14/1989 Princeton: 24 / Columbia: 8",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1989",
+    "name": "Fordham",
+    "princeton": 38,
+    "opponent": 20,
+    "description": "10/21/1989 Princeton: 38 / Fordham: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/1989",
+    "name": "Harvard",
+    "princeton": 28,
+    "opponent": 14,
+    "description": "10/28/1989 Princeton: 28 / Harvard: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/4/1989",
+    "name": "Penn",
+    "princeton": 30,
+    "opponent": 8,
+    "description": "11/4/1989 Princeton: 30 / Penn: 8",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/1989",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 14,
+    "description": "11/11/1989 Princeton: 7 / Yale: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1989",
+    "name": "Cornell",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "11/18/1989 Princeton: 21 / Cornell: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/15/1990",
+    "name": "Cornell",
+    "princeton": 14,
+    "opponent": 17,
+    "description": "9/15/1990 Princeton: 14 / Cornell: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/22/1990",
+    "name": "Fordham",
+    "princeton": 23,
+    "opponent": 14,
+    "description": "9/22/1990 Princeton: 23 / Fordham: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/1990",
+    "name": "Colgate",
+    "princeton": 13,
+    "opponent": 39,
+    "description": "9/29/1990 Princeton: 13 / Colgate: 39",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/6/1990",
+    "name": "Brown",
+    "princeton": 27,
+    "opponent": 23,
+    "description": "10/6/1990 Princeton: 27 / Brown: 23",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/1990",
+    "name": "Bucknell",
+    "princeton": 9,
+    "opponent": 14,
+    "description": "10/13/1990 Princeton: 9 / Bucknell: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/1990",
+    "name": "Harvard",
+    "princeton": 20,
+    "opponent": 23,
+    "description": "10/20/1990 Princeton: 20 / Harvard: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/1990",
+    "name": "Columbia",
+    "princeton": 15,
+    "opponent": 17,
+    "description": "10/27/1990 Princeton: 15 / Columbia: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/3/1990",
+    "name": "Penn",
+    "princeton": 34,
+    "opponent": 20,
+    "description": "11/3/1990 Princeton: 34 / Penn: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/1990",
+    "name": "Yale",
+    "princeton": 7,
+    "opponent": 34,
+    "description": "11/10/1990 Princeton: 7 / Yale: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/1990",
+    "name": "Dartmouth",
+    "princeton": 6,
+    "opponent": 23,
+    "description": "11/17/1990 Princeton: 6 / Dartmouth: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/21/1991",
+    "name": "Cornell",
+    "princeton": 18,
+    "opponent": 0,
+    "description": "9/21/1991 Princeton: 18 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/1991",
+    "name": "Fordham",
+    "princeton": 20,
+    "opponent": 17,
+    "description": "9/28/1991 Princeton: 20 / Fordham: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/5/1991",
+    "name": "Colgate",
+    "princeton": 30,
+    "opponent": 21,
+    "description": "10/5/1991 Princeton: 30 / Colgate: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1991",
+    "name": "Brown",
+    "princeton": 59,
+    "opponent": 37,
+    "description": "10/12/1991 Princeton: 59 / Brown: 37",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/19/1991",
+    "name": "Bucknell",
+    "princeton": 31,
+    "opponent": 7,
+    "description": "10/19/1991 Princeton: 31 / Bucknell: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/1991",
+    "name": "Harvard",
+    "princeton": 21,
+    "opponent": 24,
+    "description": "10/26/1991 Princeton: 21 / Harvard: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/1991",
+    "name": "Columbia",
+    "princeton": 22,
+    "opponent": 6,
+    "description": "11/2/1991 Princeton: 22 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/9/1991",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 12,
+    "description": "11/9/1991 Princeton: 17 / Penn: 12",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/16/1991",
+    "name": "Yale",
+    "princeton": 22,
+    "opponent": 16,
+    "description": "11/16/1991 Princeton: 22 / Yale: 16",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/1991",
+    "name": "Dartmouth",
+    "princeton": 13,
+    "opponent": 31,
+    "description": "11/23/1991 Princeton: 13 / Dartmouth: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/19/1992",
+    "name": "Cornell",
+    "princeton": 22,
+    "opponent": 20,
+    "description": "9/19/1992 Princeton: 22 / Cornell: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/26/1992",
+    "name": "Lafayette",
+    "princeton": 38,
+    "opponent": 35,
+    "description": "9/26/1992 Princeton: 38 / Lafayette: 35",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/3/1992",
+    "name": "Lehigh",
+    "princeton": 38,
+    "opponent": 28,
+    "description": "10/3/1992 Princeton: 38 / Lehigh: 28",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/10/1992",
+    "name": "Brown",
+    "princeton": 28,
+    "opponent": 14,
+    "description": "10/10/1992 Princeton: 28 / Brown: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1992",
+    "name": "Holy Cross",
+    "princeton": 7,
+    "opponent": 10,
+    "description": "10/17/1992 Princeton: 7 / Holy Cross: 10",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1992",
+    "name": "Harvard",
+    "princeton": 21,
+    "opponent": 6,
+    "description": "10/24/1992 Princeton: 21 / Harvard: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1992",
+    "name": "Columbia",
+    "princeton": 34,
+    "opponent": 7,
+    "description": "10/31/1992 Princeton: 34 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1992",
+    "name": "Penn",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "11/7/1992 Princeton: 20 / Penn: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1992",
+    "name": "Yale",
+    "princeton": 36,
+    "opponent": 7,
+    "description": "11/14/1992 Princeton: 36 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/21/1992",
+    "name": "Dartmouth",
+    "princeton": 20,
+    "opponent": 34,
+    "description": "11/21/1992 Princeton: 20 / Dartmouth: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/18/1993",
+    "name": "Cornell",
+    "princeton": 18,
+    "opponent": 12,
+    "description": "9/18/1993 Princeton: 18 / Cornell: 12",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1993",
+    "name": "Lafayette",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "9/25/1993 Princeton: 21 / Lafayette: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/1993",
+    "name": "Holy Cross",
+    "princeton": 38,
+    "opponent": 0,
+    "description": "10/2/1993 Princeton: 38 / Holy Cross: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1993",
+    "name": "Brown",
+    "princeton": 34,
+    "opponent": 16,
+    "description": "10/9/1993 Princeton: 34 / Brown: 16",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1993",
+    "name": "Lehigh",
+    "princeton": 31,
+    "opponent": 23,
+    "description": "10/16/1993 Princeton: 31 / Lehigh: 23",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/1993",
+    "name": "Harvard",
+    "princeton": 21,
+    "opponent": 10,
+    "description": "10/23/1993 Princeton: 21 / Harvard: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/30/1993",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 3,
+    "description": "10/30/1993 Princeton: 14 / Columbia: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1993",
+    "name": "Penn",
+    "princeton": 14,
+    "opponent": 30,
+    "description": "11/6/1993 Princeton: 14 / Penn: 30",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1993",
+    "name": "Yale",
+    "princeton": 28,
+    "opponent": 7,
+    "description": "11/13/1993 Princeton: 28 / Yale: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/20/1993",
+    "name": "Dartmouth",
+    "princeton": 22,
+    "opponent": 28,
+    "description": "11/20/1993 Princeton: 22 / Dartmouth: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/17/1994",
+    "name": "Cornell",
+    "princeton": 16,
+    "opponent": 31,
+    "description": "9/17/1994 Princeton: 16 / Cornell: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/1994",
+    "name": "Colgate",
+    "princeton": 29,
+    "opponent": 3,
+    "description": "9/24/1994 Princeton: 29 / Colgate: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/1994",
+    "name": "Bucknell",
+    "princeton": 12,
+    "opponent": 7,
+    "description": "10/1/1994 Princeton: 12 / Bucknell: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/1994",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 10,
+    "description": "10/8/1994 Princeton: 31 / Brown: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/1994",
+    "name": "Fordham",
+    "princeton": 27,
+    "opponent": 20,
+    "description": "10/15/1994 Princeton: 27 / Fordham: 20",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/22/1994",
+    "name": "Harvard",
+    "princeton": 18,
+    "opponent": 7,
+    "description": "10/22/1994 Princeton: 18 / Harvard: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/1994",
+    "name": "Columbia",
+    "princeton": 10,
+    "opponent": 17,
+    "description": "10/29/1994 Princeton: 10 / Columbia: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/1994",
+    "name": "Penn",
+    "princeton": 19,
+    "opponent": 33,
+    "description": "11/5/1994 Princeton: 19 / Penn: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/1994",
+    "name": "Yale",
+    "princeton": 19,
+    "opponent": 6,
+    "description": "11/12/1994 Princeton: 19 / Yale: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/1994",
+    "name": "Dartmouth",
+    "princeton": 20,
+    "opponent": 13,
+    "description": "11/19/1994 Princeton: 20 / Dartmouth: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/16/1995",
+    "name": "Cornell",
+    "princeton": 24,
+    "opponent": 22,
+    "description": "9/16/1995 Princeton: 24 / Cornell: 22",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/23/1995",
+    "name": "Bucknell",
+    "princeton": 20,
+    "opponent": 3,
+    "description": "9/23/1995 Princeton: 20 / Bucknell: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/1995",
+    "name": "Colgate",
+    "princeton": 34,
+    "opponent": 23,
+    "description": "9/30/1995 Princeton: 34 / Colgate: 23",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/1995",
+    "name": "Brown",
+    "princeton": 21,
+    "opponent": 19,
+    "description": "10/7/1995 Princeton: 21 / Brown: 19",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/1995",
+    "name": "Lafayette",
+    "princeton": 41,
+    "opponent": 0,
+    "description": "10/14/1995 Princeton: 41 / Lafayette: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/1995",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 3,
+    "description": "10/21/1995 Princeton: 14 / Harvard: 3",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/28/1995",
+    "name": "Columbia",
+    "princeton": 44,
+    "opponent": 14,
+    "description": "10/28/1995 Princeton: 44 / Columbia: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/1995",
+    "name": "Penn",
+    "princeton": 22,
+    "opponent": 9,
+    "description": "11/4/1995 Princeton: 22 / Penn: 9",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/1995",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 21,
+    "description": "11/11/1995 Princeton: 13 / Yale: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/1995",
+    "name": "Dartmouth",
+    "princeton": 10,
+    "opponent": 10,
+    "description": "11/18/1995 Princeton: 10 / Dartmouth: 10",
+    "win": "T",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/21/1996",
+    "name": "Cornell",
+    "princeton": 27,
+    "opponent": 33,
+    "description": "9/21/1996 Princeton: 27 / Cornell: 33",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/28/1996",
+    "name": "Holy Cross",
+    "princeton": 37,
+    "opponent": 30,
+    "description": "9/28/1996 Princeton: 37 / Holy Cross: 30",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/1996",
+    "name": "Lehigh",
+    "princeton": 14,
+    "opponent": 20,
+    "description": "10/5/1996 Princeton: 14 / Lehigh: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/1996",
+    "name": "Brown",
+    "princeton": 23,
+    "opponent": 27,
+    "description": "10/12/1996 Princeton: 23 / Brown: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/1996",
+    "name": "Bucknell",
+    "princeton": 6,
+    "opponent": 10,
+    "description": "10/19/1996 Princeton: 6 / Bucknell: 10",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/1996",
+    "name": "Harvard",
+    "princeton": 0,
+    "opponent": 24,
+    "description": "10/26/1996 Princeton: 0 / Harvard: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/1996",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 11,
+    "description": "11/2/1996 Princeton: 14 / Columbia: 11",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/1996",
+    "name": "Penn",
+    "princeton": 6,
+    "opponent": 10,
+    "description": "11/9/1996 Princeton: 6 / Penn: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/1996",
+    "name": "Yale",
+    "princeton": 17,
+    "opponent": 13,
+    "description": "11/16/1996 Princeton: 17 / Yale: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/23/1996",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 24,
+    "description": "11/23/1996 Princeton: 0 / Dartmouth: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/20/1997",
+    "name": "Cornell",
+    "princeton": 10,
+    "opponent": 14,
+    "description": "9/20/1997 Princeton: 10 / Cornell: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/27/1997",
+    "name": "Fordham",
+    "princeton": 9,
+    "opponent": 7,
+    "description": "9/27/1997 Princeton: 9 / Fordham: 7",
+    "win": "W",
+    "H/A/N": "N"
+  },
+  {
+    "date": "10/4/1997",
+    "name": "Holy Cross",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "10/4/1997 Princeton: 21 / Holy Cross: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/11/1997",
+    "name": "Brown",
+    "princeton": 30,
+    "opponent": 13,
+    "description": "10/11/1997 Princeton: 30 / Brown: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/1997",
+    "name": "Colgate",
+    "princeton": 31,
+    "opponent": 28,
+    "description": "10/18/1997 Princeton: 31 / Colgate: 28",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/25/1997",
+    "name": "Harvard",
+    "princeton": 12,
+    "opponent": 14,
+    "description": "10/25/1997 Princeton: 12 / Harvard: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/1/1997",
+    "name": "Columbia",
+    "princeton": 0,
+    "opponent": 17,
+    "description": "11/1/1997 Princeton: 0 / Columbia: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/8/1997",
+    "name": "Penn",
+    "princeton": 17,
+    "opponent": 20,
+    "description": "11/8/1997 Princeton: 17 / Penn: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/1997",
+    "name": "Yale",
+    "princeton": 9,
+    "opponent": 0,
+    "description": "11/15/1997 Princeton: 9 / Yale: 0",
+    "win": "W",
+    "H/A/N": "N"
+  },
+  {
+    "date": "11/22/1997",
+    "name": "Dartmouth",
+    "princeton": 9,
+    "opponent": 12,
+    "description": "11/22/1997 Princeton: 9 / Dartmouth: 12",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/19/1998",
+    "name": "Cornell",
+    "princeton": 6,
+    "opponent": 0,
+    "description": "9/19/1998 Princeton: 6 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/1998",
+    "name": "Lehigh",
+    "princeton": 24,
+    "opponent": 31,
+    "description": "9/26/1998 Princeton: 24 / Lehigh: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/3/1998",
+    "name": "Fordham",
+    "princeton": 17,
+    "opponent": 20,
+    "description": "10/3/1998 Princeton: 17 / Fordham: 20",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/10/1998",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 17,
+    "description": "10/10/1998 Princeton: 31 / Brown: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/1998",
+    "name": "Lafayette",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/17/1998 Princeton: 20 / Lafayette: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/1998",
+    "name": "Harvard",
+    "princeton": 22,
+    "opponent": 23,
+    "description": "10/24/1998 Princeton: 22 / Harvard: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/31/1998",
+    "name": "Columbia",
+    "princeton": 20,
+    "opponent": 0,
+    "description": "10/31/1998 Princeton: 20 / Columbia: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/1998",
+    "name": "Penn",
+    "princeton": 14,
+    "opponent": 27,
+    "description": "11/7/1998 Princeton: 14 / Penn: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/14/1998",
+    "name": "Yale",
+    "princeton": 28,
+    "opponent": 31,
+    "description": "11/14/1998 Princeton: 28 / Yale: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/21/1998",
+    "name": "Dartmouth",
+    "princeton": 35,
+    "opponent": 13,
+    "description": "11/21/1998 Princeton: 35 / Dartmouth: 13",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/18/1999",
+    "name": "Cornell",
+    "princeton": 3,
+    "opponent": 20,
+    "description": "9/18/1999 Princeton: 3 / Cornell: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/1999",
+    "name": "Lehigh",
+    "princeton": 0,
+    "opponent": 31,
+    "description": "9/25/1999 Princeton: 0 / Lehigh: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/1999",
+    "name": "Fordham",
+    "princeton": 27,
+    "opponent": 0,
+    "description": "10/2/1999 Princeton: 27 / Fordham: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/1999",
+    "name": "Brown",
+    "princeton": 30,
+    "opponent": 53,
+    "description": "10/9/1999 Princeton: 30 / Brown: 53",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/1999",
+    "name": "Lafayette",
+    "princeton": 22,
+    "opponent": 10,
+    "description": "10/16/1999 Princeton: 22 / Lafayette: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/23/1999",
+    "name": "Harvard",
+    "princeton": 6,
+    "opponent": 13,
+    "description": "10/23/1999 Princeton: 6 / Harvard: 13",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/30/1999",
+    "name": "Columbia",
+    "princeton": 44,
+    "opponent": 15,
+    "description": "10/30/1999 Princeton: 44 / Columbia: 15",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/6/1999",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 41,
+    "description": "11/6/1999 Princeton: 13 / Penn: 41",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/1999",
+    "name": "Yale",
+    "princeton": 21,
+    "opponent": 23,
+    "description": "11/13/1999 Princeton: 21 / Yale: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/20/1999",
+    "name": "Dartmouth",
+    "princeton": 18,
+    "opponent": 19,
+    "description": "11/20/1999 Princeton: 18 / Dartmouth: 19",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/16/2000",
+    "name": "Lafayette",
+    "princeton": 17,
+    "opponent": 24,
+    "description": "9/16/2000 Princeton: 17 / Lafayette: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/23/2000",
+    "name": "Lehigh",
+    "princeton": 18,
+    "opponent": 20,
+    "description": "9/23/2000 Princeton: 18 / Lehigh: 20",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/2000",
+    "name": "Columbia",
+    "princeton": 27,
+    "opponent": 24,
+    "description": "9/30/2000 Princeton: 27 / Columbia: 24",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/2000",
+    "name": "Colgate",
+    "princeton": 6,
+    "opponent": 34,
+    "description": "10/7/2000 Princeton: 6 / Colgate: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/2000",
+    "name": "Brown",
+    "princeton": 55,
+    "opponent": 28,
+    "description": "10/14/2000 Princeton: 55 / Brown: 28",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/2000",
+    "name": "Harvard",
+    "princeton": 21,
+    "opponent": 35,
+    "description": "10/21/2000 Princeton: 21 / Harvard: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/2000",
+    "name": "Cornell",
+    "princeton": 24,
+    "opponent": 25,
+    "description": "10/28/2000 Princeton: 24 / Cornell: 25",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/4/2000",
+    "name": "Penn",
+    "princeton": 24,
+    "opponent": 40,
+    "description": "11/4/2000 Princeton: 24 / Penn: 40",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/2000",
+    "name": "Yale",
+    "princeton": 19,
+    "opponent": 14,
+    "description": "11/11/2000 Princeton: 19 / Yale: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/2000",
+    "name": "Dartmouth",
+    "princeton": 37,
+    "opponent": 43,
+    "description": "11/18/2000 Princeton: 37 / Dartmouth: 43",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/22/2001",
+    "name": "Lehigh",
+    "princeton": 10,
+    "opponent": 34,
+    "description": "9/22/2001 Princeton: 10 / Lehigh: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/29/2001",
+    "name": "Columbia",
+    "princeton": 44,
+    "opponent": 11,
+    "description": "9/29/2001 Princeton: 44 / Columbia: 11",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/2001",
+    "name": "Colgate",
+    "princeton": 10,
+    "opponent": 35,
+    "description": "10/6/2001 Princeton: 10 / Colgate: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/2001",
+    "name": "Brown",
+    "princeton": 24,
+    "opponent": 35,
+    "description": "10/13/2001 Princeton: 24 / Brown: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/2001",
+    "name": "Harvard",
+    "princeton": 26,
+    "opponent": 28,
+    "description": "10/20/2001 Princeton: 26 / Harvard: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/27/2001",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 10,
+    "description": "10/27/2001 Princeton: 7 / Cornell: 10",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/2001",
+    "name": "Penn",
+    "princeton": 10,
+    "opponent": 21,
+    "description": "11/3/2001 Princeton: 10 / Penn: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/2001",
+    "name": "Yale",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "11/10/2001 Princeton: 34 / Yale: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/2001",
+    "name": "Dartmouth",
+    "princeton": 35,
+    "opponent": 14,
+    "description": "11/17/2001 Princeton: 35 / Dartmouth: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/21/2002",
+    "name": "Lehigh",
+    "princeton": 24,
+    "opponent": 31,
+    "description": "9/21/2002 Princeton: 24 / Lehigh: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/28/2002",
+    "name": "Lafayette",
+    "princeton": 34,
+    "opponent": 19,
+    "description": "9/28/2002 Princeton: 34 / Lafayette: 19",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/5/2002",
+    "name": "Columbia",
+    "princeton": 35,
+    "opponent": 32,
+    "description": "10/5/2002 Princeton: 35 / Columbia: 32",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/12/2002",
+    "name": "Colgate",
+    "princeton": 14,
+    "opponent": 10,
+    "description": "10/12/2002 Princeton: 14 / Colgate: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/2002",
+    "name": "Brown",
+    "princeton": 16,
+    "opponent": 14,
+    "description": "10/19/2002 Princeton: 16 / Brown: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/26/2002",
+    "name": "Harvard",
+    "princeton": 17,
+    "opponent": 24,
+    "description": "10/26/2002 Princeton: 17 / Harvard: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/2/2002",
+    "name": "Cornell",
+    "princeton": 35,
+    "opponent": 25,
+    "description": "11/2/2002 Princeton: 35 / Cornell: 25",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/2002",
+    "name": "Penn",
+    "princeton": 13,
+    "opponent": 44,
+    "description": "11/9/2002 Princeton: 13 / Penn: 44",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/16/2002",
+    "name": "Yale",
+    "princeton": 3,
+    "opponent": 7,
+    "description": "11/16/2002 Princeton: 3 / Yale: 7",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/23/2002",
+    "name": "Dartmouth",
+    "princeton": 38,
+    "opponent": 30,
+    "description": "11/23/2002 Princeton: 38 / Dartmouth: 30",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/20/2003",
+    "name": "Lehigh",
+    "princeton": 13,
+    "opponent": 28,
+    "description": "9/20/2003 Princeton: 13 / Lehigh: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/27/2003",
+    "name": "Lafayette",
+    "princeton": 13,
+    "opponent": 28,
+    "description": "9/27/2003 Princeton: 13 / Lafayette: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/4/2003",
+    "name": "Columbia",
+    "princeton": 27,
+    "opponent": 33,
+    "description": "10/4/2003 Princeton: 27 / Columbia: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/2003",
+    "name": "Colgate",
+    "princeton": 3,
+    "opponent": 30,
+    "description": "10/11/2003 Princeton: 3 / Colgate: 30",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/18/2003",
+    "name": "Brown",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "10/18/2003 Princeton: 34 / Brown: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/25/2003",
+    "name": "Harvard",
+    "princeton": 40,
+    "opponent": 43,
+    "description": "10/25/2003 Princeton: 40 / Harvard: 43",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/1/2003",
+    "name": "Cornell",
+    "princeton": 28,
+    "opponent": 6,
+    "description": "11/1/2003 Princeton: 28 / Cornell: 6",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/8/2003",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 37,
+    "description": "11/8/2003 Princeton: 7 / Penn: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/15/2003",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 27,
+    "description": "11/15/2003 Princeton: 24 / Yale: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/22/2003",
+    "name": "Dartmouth",
+    "princeton": 15,
+    "opponent": 21,
+    "description": "11/22/2003 Princeton: 15 / Dartmouth: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/18/2004",
+    "name": "Lafayette",
+    "princeton": 35,
+    "opponent": 18,
+    "description": "9/18/2004 Princeton: 35 / Lafayette: 18",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/25/2004",
+    "name": "San Diego",
+    "princeton": 24,
+    "opponent": 17,
+    "description": "9/25/2004 Princeton: 24 / San Diego: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/2/2004",
+    "name": "Columbia",
+    "princeton": 27,
+    "opponent": 26,
+    "description": "10/2/2004 Princeton: 27 / Columbia: 26",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/2004",
+    "name": "Colgate",
+    "princeton": 26,
+    "opponent": 29,
+    "description": "10/9/2004 Princeton: 26 / Colgate: 29",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/2004",
+    "name": "Brown",
+    "princeton": 24,
+    "opponent": 10,
+    "description": "10/16/2004 Princeton: 24 / Brown: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/2004",
+    "name": "Harvard",
+    "princeton": 14,
+    "opponent": 39,
+    "description": "10/23/2004 Princeton: 14 / Harvard: 39",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/2004",
+    "name": "Cornell",
+    "princeton": 20,
+    "opponent": 21,
+    "description": "10/30/2004 Princeton: 20 / Cornell: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/6/2004",
+    "name": "Penn",
+    "princeton": 15,
+    "opponent": 16,
+    "description": "11/6/2004 Princeton: 15 / Penn: 16",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/2004",
+    "name": "Yale",
+    "princeton": 9,
+    "opponent": 21,
+    "description": "11/13/2004 Princeton: 9 / Yale: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/2004",
+    "name": "Dartmouth",
+    "princeton": 17,
+    "opponent": 10,
+    "description": "11/20/2004 Princeton: 17 / Dartmouth: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/17/2005",
+    "name": "Lafayette",
+    "princeton": 23,
+    "opponent": 21,
+    "description": "9/17/2005 Princeton: 23 / Lafayette: 21",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/2005",
+    "name": "San Diego",
+    "princeton": 20,
+    "opponent": 17,
+    "description": "9/24/2005 Princeton: 20 / San Diego: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/2005",
+    "name": "Columbia",
+    "princeton": 43,
+    "opponent": 3,
+    "description": "10/1/2005 Princeton: 43 / Columbia: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/2005",
+    "name": "Colgate",
+    "princeton": 10,
+    "opponent": 16,
+    "description": "10/8/2005 Princeton: 10 / Colgate: 16",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/15/2005",
+    "name": "Brown",
+    "princeton": 28,
+    "opponent": 31,
+    "description": "10/15/2005 Princeton: 28 / Brown: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/22/2005",
+    "name": "Harvard",
+    "princeton": 27,
+    "opponent": 24,
+    "description": "10/22/2005 Princeton: 27 / Harvard: 24",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/2005",
+    "name": "Cornell",
+    "princeton": 20,
+    "opponent": 17,
+    "description": "10/29/2005 Princeton: 20 / Cornell: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/2005",
+    "name": "Penn",
+    "princeton": 30,
+    "opponent": 13,
+    "description": "11/5/2005 Princeton: 30 / Penn: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/12/2005",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 21,
+    "description": "11/12/2005 Princeton: 14 / Yale: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/2005",
+    "name": "Dartmouth",
+    "princeton": 30,
+    "opponent": 0,
+    "description": "11/19/2005 Princeton: 30 / Dartmouth: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/16/2006",
+    "name": "Lehigh",
+    "princeton": 14,
+    "opponent": 10,
+    "description": "9/16/2006 Princeton: 14 / Lehigh: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/23/2006",
+    "name": "Lafayette",
+    "princeton": 26,
+    "opponent": 14,
+    "description": "9/23/2006 Princeton: 26 / Lafayette: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/30/2006",
+    "name": "Columbia",
+    "princeton": 19,
+    "opponent": 6,
+    "description": "9/30/2006 Princeton: 19 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/7/2006",
+    "name": "Colgate",
+    "princeton": 27,
+    "opponent": 26,
+    "description": "10/7/2006 Princeton: 27 / Colgate: 26",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/13/2006",
+    "name": "Brown",
+    "princeton": 17,
+    "opponent": 3,
+    "description": "10/13/2006 Princeton: 17 / Brown: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/2006",
+    "name": "Harvard",
+    "princeton": 31,
+    "opponent": 28,
+    "description": "10/21/2006 Princeton: 31 / Harvard: 28",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/28/2006",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 14,
+    "description": "10/28/2006 Princeton: 7 / Cornell: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/4/2006",
+    "name": "Penn",
+    "princeton": 31,
+    "opponent": 30,
+    "description": "11/4/2006 Princeton: 31 / Penn: 30",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/11/2006",
+    "name": "Yale",
+    "princeton": 34,
+    "opponent": 31,
+    "description": "11/11/2006 Princeton: 34 / Yale: 31",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/18/2006",
+    "name": "Dartmouth",
+    "princeton": 27,
+    "opponent": 17,
+    "description": "11/18/2006 Princeton: 27 / Dartmouth: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/15/2007",
+    "name": "Lehigh",
+    "princeton": 21,
+    "opponent": 32,
+    "description": "9/15/2007 Princeton: 21 / Lehigh: 32",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/22/2007",
+    "name": "Lafayette",
+    "princeton": 20,
+    "opponent": 14,
+    "description": "9/22/2007 Princeton: 20 / Lafayette: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/29/2007",
+    "name": "Columbia",
+    "princeton": 42,
+    "opponent": 32,
+    "description": "9/29/2007 Princeton: 42 / Columbia: 32",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/6/2007",
+    "name": "Hampton",
+    "princeton": 27,
+    "opponent": 48,
+    "description": "10/6/2007 Princeton: 27 / Hampton: 48",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/2007",
+    "name": "Brown",
+    "princeton": 24,
+    "opponent": 33,
+    "description": "10/13/2007 Princeton: 24 / Brown: 33",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/2007",
+    "name": "Harvard",
+    "princeton": 10,
+    "opponent": 27,
+    "description": "10/20/2007 Princeton: 10 / Harvard: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/2007",
+    "name": "Cornell",
+    "princeton": 34,
+    "opponent": 31,
+    "description": "10/26/2007 Princeton: 34 / Cornell: 31",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/2007",
+    "name": "Penn",
+    "princeton": 0,
+    "opponent": 7,
+    "description": "11/3/2007 Princeton: 0 / Penn: 7",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/10/2007",
+    "name": "Yale",
+    "princeton": 6,
+    "opponent": 27,
+    "description": "11/10/2007 Princeton: 6 / Yale: 27",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/17/2007",
+    "name": "Dartmouth",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "11/17/2007 Princeton: 17 / Dartmouth: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/20/2008",
+    "name": "The Citadel",
+    "princeton": 24,
+    "opponent": 37,
+    "description": "9/20/2008 Princeton: 24 / The Citadel: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/27/2008",
+    "name": "Lehigh",
+    "princeton": 10,
+    "opponent": 7,
+    "description": "9/27/2008 Princeton: 10 / Lehigh: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/2008",
+    "name": "Columbia",
+    "princeton": 27,
+    "opponent": 24,
+    "description": "10/4/2008 Princeton: 27 / Columbia: 24",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/11/2008",
+    "name": "Colgate",
+    "princeton": 24,
+    "opponent": 27,
+    "description": "10/11/2008 Princeton: 24 / Colgate: 27",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/2008",
+    "name": "Brown",
+    "princeton": 10,
+    "opponent": 31,
+    "description": "10/18/2008 Princeton: 10 / Brown: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/2008",
+    "name": "Harvard",
+    "princeton": 20,
+    "opponent": 24,
+    "description": "10/25/2008 Princeton: 20 / Harvard: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/2008",
+    "name": "Cornell",
+    "princeton": 31,
+    "opponent": 26,
+    "description": "11/1/2008 Princeton: 31 / Cornell: 26",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/7/2008",
+    "name": "Penn",
+    "princeton": 9,
+    "opponent": 14,
+    "description": "11/7/2008 Princeton: 9 / Penn: 14",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/2008",
+    "name": "Yale",
+    "princeton": 0,
+    "opponent": 14,
+    "description": "11/15/2008 Princeton: 0 / Yale: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/2008",
+    "name": "Dartmouth",
+    "princeton": 28,
+    "opponent": 10,
+    "description": "11/22/2008 Princeton: 28 / Dartmouth: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/19/2009",
+    "name": "The Citadel",
+    "princeton": 7,
+    "opponent": 38,
+    "description": "9/19/2009 Princeton: 7 / The Citadel: 38",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/26/2009",
+    "name": "Lehigh",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "9/26/2009 Princeton: 17 / Lehigh: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/3/2009",
+    "name": "Columbia",
+    "princeton": 0,
+    "opponent": 38,
+    "description": "10/3/2009 Princeton: 0 / Columbia: 38",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/2009",
+    "name": "Colgate",
+    "princeton": 14,
+    "opponent": 21,
+    "description": "10/8/2009 Princeton: 14 / Colgate: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/2009",
+    "name": "Brown",
+    "princeton": 17,
+    "opponent": 34,
+    "description": "10/17/2009 Princeton: 17 / Brown: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/2009",
+    "name": "Harvard",
+    "princeton": 3,
+    "opponent": 37,
+    "description": "10/24/2009 Princeton: 3 / Harvard: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/2009",
+    "name": "Cornell",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "10/31/2009 Princeton: 17 / Cornell: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/2009",
+    "name": "Penn",
+    "princeton": 7,
+    "opponent": 42,
+    "description": "11/7/2009 Princeton: 7 / Penn: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/14/2009",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 17,
+    "description": "11/14/2009 Princeton: 24 / Yale: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/2009",
+    "name": "Dartmouth",
+    "princeton": 23,
+    "opponent": 11,
+    "description": "11/21/2009 Princeton: 23 / Dartmouth: 11",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/18/2010",
+    "name": "Lehigh",
+    "princeton": 22,
+    "opponent": 35,
+    "description": "9/18/2010 Princeton: 22 / Lehigh: 35",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/25/2010",
+    "name": "Lafayette",
+    "princeton": 36,
+    "opponent": 33,
+    "description": "9/25/2010 Princeton: 36 / Lafayette: 33",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/2010",
+    "name": "Columbia",
+    "princeton": 14,
+    "opponent": 42,
+    "description": "10/2/2010 Princeton: 14 / Columbia: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/9/2010",
+    "name": "Colgate",
+    "princeton": 10,
+    "opponent": 44,
+    "description": "10/9/2010 Princeton: 10 / Colgate: 44",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/16/2010",
+    "name": "Brown",
+    "princeton": 13,
+    "opponent": 17,
+    "description": "10/16/2010 Princeton: 13 / Brown: 17",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/23/2010",
+    "name": "Harvard",
+    "princeton": 28,
+    "opponent": 45,
+    "description": "10/23/2010 Princeton: 28 / Harvard: 45",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/30/2010",
+    "name": "Cornell",
+    "princeton": 19,
+    "opponent": 21,
+    "description": "10/30/2010 Princeton: 19 / Cornell: 21",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/6/2010",
+    "name": "Penn",
+    "princeton": 10,
+    "opponent": 52,
+    "description": "11/6/2010 Princeton: 10 / Penn: 52",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/13/2010",
+    "name": "Yale",
+    "princeton": 13,
+    "opponent": 14,
+    "description": "11/13/2010 Princeton: 13 / Yale: 14",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/20/2010",
+    "name": "Dartmouth",
+    "princeton": 0,
+    "opponent": 31,
+    "description": "11/20/2010 Princeton: 0 / Dartmouth: 31",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/17/2011",
+    "name": "Lehigh",
+    "princeton": 22,
+    "opponent": 34,
+    "description": "9/17/2011 Princeton: 22 / Lehigh: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/2011",
+    "name": "Bucknell",
+    "princeton": 9,
+    "opponent": 34,
+    "description": "9/24/2011 Princeton: 9 / Bucknell: 34",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/2011",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 21,
+    "description": "10/1/2011 Princeton: 24 / Columbia: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/8/2011",
+    "name": "Hampton",
+    "princeton": 23,
+    "opponent": 28,
+    "description": "10/8/2011 Princeton: 23 / Hampton: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/2011",
+    "name": "Brown",
+    "princeton": 0,
+    "opponent": 34,
+    "description": "10/15/2011 Princeton: 0 / Brown: 34",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/22/2011",
+    "name": "Harvard",
+    "princeton": 39,
+    "opponent": 56,
+    "description": "10/22/2011 Princeton: 39 / Harvard: 56",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/2011",
+    "name": "Cornell",
+    "princeton": 7,
+    "opponent": 24,
+    "description": "10/29/2011 Princeton: 7 / Cornell: 24",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/2011",
+    "name": "Penn",
+    "princeton": 9,
+    "opponent": 37,
+    "description": "11/5/2011 Princeton: 9 / Penn: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/12/2011",
+    "name": "Yale",
+    "princeton": 24,
+    "opponent": 33,
+    "description": "11/12/2011 Princeton: 24 / Yale: 33",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/19/2011",
+    "name": "Dartmouth",
+    "princeton": 17,
+    "opponent": 24,
+    "description": "11/19/2011 Princeton: 17 / Dartmouth: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/15/2012",
+    "name": "Lehigh",
+    "princeton": 14,
+    "opponent": 17,
+    "description": "9/15/2012 Princeton: 14 / Lehigh: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/21/2012",
+    "name": "Georgetown",
+    "princeton": 20,
+    "opponent": 21,
+    "description": "9/21/2012 Princeton: 20 / Georgetown: 21",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/29/2012",
+    "name": "Columbia",
+    "princeton": 33,
+    "opponent": 6,
+    "description": "9/29/2012 Princeton: 33 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/6/2012",
+    "name": "Lafayette",
+    "princeton": 35,
+    "opponent": 14,
+    "description": "10/6/2012 Princeton: 35 / Lafayette: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/13/2012",
+    "name": "Brown",
+    "princeton": 19,
+    "opponent": 0,
+    "description": "10/13/2012 Princeton: 19 / Brown: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/2012",
+    "name": "Harvard",
+    "princeton": 39,
+    "opponent": 34,
+    "description": "10/20/2012 Princeton: 39 / Harvard: 34",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/27/2012",
+    "name": "Cornell",
+    "princeton": 35,
+    "opponent": 37,
+    "description": "10/27/2012 Princeton: 35 / Cornell: 37",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/3/2012",
+    "name": "Penn",
+    "princeton": 21,
+    "opponent": 28,
+    "description": "11/3/2012 Princeton: 21 / Penn: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/2012",
+    "name": "Yale",
+    "princeton": 29,
+    "opponent": 7,
+    "description": "11/10/2012 Princeton: 29 / Yale: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/2012",
+    "name": "Dartmouth",
+    "princeton": 21,
+    "opponent": 35,
+    "description": "11/17/2012 Princeton: 21 / Dartmouth: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/21/2013",
+    "name": "Lehigh",
+    "princeton": 28,
+    "opponent": 29,
+    "description": "9/21/2013 Princeton: 28 / Lehigh: 29",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/2013",
+    "name": "Georgetown",
+    "princeton": 50,
+    "opponent": 22,
+    "description": "9/28/2013 Princeton: 50 / Georgetown: 22",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/5/2013",
+    "name": "Columbia",
+    "princeton": 53,
+    "opponent": 7,
+    "description": "10/5/2013 Princeton: 53 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/12/2013",
+    "name": "Lafayette",
+    "princeton": 42,
+    "opponent": 26,
+    "description": "10/12/2013 Princeton: 42 / Lafayette: 26",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/2013",
+    "name": "Brown",
+    "princeton": 39,
+    "opponent": 17,
+    "description": "10/19/2013 Princeton: 39 / Brown: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/2013",
+    "name": "Harvard",
+    "princeton": 51,
+    "opponent": 48,
+    "description": "10/26/2013 Princeton: 51 / Harvard: 48",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/2/2013",
+    "name": "Cornell",
+    "princeton": 53,
+    "opponent": 20,
+    "description": "11/2/2013 Princeton: 53 / Cornell: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/9/2013",
+    "name": "Penn",
+    "princeton": 38,
+    "opponent": 26,
+    "description": "11/9/2013 Princeton: 38 / Penn: 26",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/16/2013",
+    "name": "Yale",
+    "princeton": 59,
+    "opponent": 23,
+    "description": "11/16/2013 Princeton: 59 / Yale: 23",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/2013",
+    "name": "Dartmouth",
+    "princeton": 24,
+    "opponent": 28,
+    "description": "11/23/2013 Princeton: 24 / Dartmouth: 28",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/20/2014",
+    "name": "San Diego",
+    "princeton": 29,
+    "opponent": 39,
+    "description": "9/20/2014 Princeton: 29 / San Diego: 39",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/27/2014",
+    "name": "Davidson",
+    "princeton": 56,
+    "opponent": 17,
+    "description": "9/27/2014 Princeton: 56 / Davidson: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/4/2014",
+    "name": "Columbia",
+    "princeton": 38,
+    "opponent": 6,
+    "description": "10/4/2014 Princeton: 38 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/11/2014",
+    "name": "Colgate",
+    "princeton": 30,
+    "opponent": 31,
+    "description": "10/11/2014 Princeton: 30 / Colgate: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/18/2014",
+    "name": "Brown",
+    "princeton": 27,
+    "opponent": 16,
+    "description": "10/18/2014 Princeton: 27 / Brown: 16",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/25/2014",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 49,
+    "description": "10/25/2014 Princeton: 27 / Harvard: 49",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/2014",
+    "name": "Cornell",
+    "princeton": 38,
+    "opponent": 27,
+    "description": "11/1/2014 Princeton: 7 / Cornell: 27",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/8/2014",
+    "name": "Penn",
+    "princeton": 22,
+    "opponent": 17,
+    "description": "11/8/2014 Princeton: 38 / Penn: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/15/2014",
+    "name": "Yale",
+    "princeton": 30,
+    "opponent": 44,
+    "description": "11/15/2014 Princeton: 22 / Yale: 44",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/22/2014",
+    "name": "Dartmouth",
+    "princeton": 10,
+    "opponent": 41,
+    "description": "11/22/2014 Princeton: 30 / Dartmouth: 41",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/19/2015",
+    "name": "Lafayette",
+    "princeton": 40,
+    "opponent": 7,
+    "description": "9/19/2015 Princeton: 10 / Lafayette: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/26/2015",
+    "name": "Lehigh",
+    "princeton": 52,
+    "opponent": 26,
+    "description": "9/26/2015 Princeton: 52 / Lehigh: 26",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/2015",
+    "name": "Columbia",
+    "princeton": 10,
+    "opponent": 5,
+    "description": "10/2/2015 Princeton: 10 / Columbia: 5",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/10/2015",
+    "name": "Colgate",
+    "princeton": 44,
+    "opponent": 20,
+    "description": "10/10/2015 Princeton: 44 / Colgate: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/17/2015",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 38,
+    "description": "10/17/2015 Princeton: 31 / Brown: 38",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/24/2015",
+    "name": "Harvard",
+    "princeton": 7,
+    "opponent": 42,
+    "description": "10/24/2015 Princeton: 7 / Harvard: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/31/2015",
+    "name": "Cornell",
+    "princeton": 47,
+    "opponent": 21,
+    "description": "10/31/2015 Princeton: 47 / Cornell: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/7/2015",
+    "name": "Penn",
+    "princeton": 23,
+    "opponent": 26,
+    "description": "11/7/2015 Princeton: 23 / Penn: 26",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/14/2015",
+    "name": "Yale",
+    "princeton": 28,
+    "opponent": 35,
+    "description": "11/14/2015 Princeton: 28 / Yale: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/21/2015",
+    "name": "Dartmouth",
+    "princeton": 10,
+    "opponent": 17,
+    "description": "11/21/2015 Princeton: 10 / Dartmouth: 17",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/17/2016",
+    "name": "Lafayette",
+    "princeton": 35,
+    "opponent": 31,
+    "description": "9/17/2016 Princeton: 35 / Lafayette: 31",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/24/2016",
+    "name": "Lehigh",
+    "princeton": 28,
+    "opponent": 42,
+    "description": "9/24/2016 Princeton: 28 / Lehigh: 42",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/1/2016",
+    "name": "Columbia",
+    "princeton": 48,
+    "opponent": 13,
+    "description": "10/1/2016 Princeton: 48 / Columbia: 13",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/8/2016",
+    "name": "Georgetown",
+    "princeton": 31,
+    "opponent": 17,
+    "description": "10/8/2016 Princeton: 31 / Georgetown: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/15/2016",
+    "name": "Brown",
+    "princeton": 31,
+    "opponent": 7,
+    "description": "10/15/2016 Princeton: 31 / Brown: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/22/2016",
+    "name": "Harvard",
+    "princeton": 20,
+    "opponent": 23,
+    "description": "10/22/2016 Princeton: 20 / Harvard: 23",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/2016",
+    "name": "Cornell",
+    "princeton": 56,
+    "opponent": 7,
+    "description": "10/29/2016 Princeton: 56 / Cornell: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/2016",
+    "name": "Penn",
+    "princeton": 28,
+    "opponent": 0,
+    "description": "11/5/2016 Princeton: 28 / Penn: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/2016",
+    "name": "Yale",
+    "princeton": 31,
+    "opponent": 3,
+    "description": "11/12/2016 Princeton: 31 / Yale: 3",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/2016",
+    "name": "Dartmouth",
+    "princeton": 38,
+    "opponent": 21,
+    "description": "11/19/2016 Princeton: 38 / Dartmouth: 21",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/16/2017",
+    "name": "San Diego",
+    "princeton": 27,
+    "opponent": 17,
+    "description": "9/16/2017 Princeton: 27 / San Diego: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/23/2017",
+    "name": "Lafayette",
+    "princeton": 38,
+    "opponent": 17,
+    "description": "9/23/2017 Princeton: 38 / Lafayette: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/30/2017",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 28,
+    "description": "9/30/2017 Princeton: 24 / Columbia: 28",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/7/2017",
+    "name": "Georgetown",
+    "princeton": 50,
+    "opponent": 30,
+    "description": "10/7/2017 Princeton: 50 / Georgetown: 30",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/14/2017",
+    "name": "Brown",
+    "princeton": 53,
+    "opponent": 0,
+    "description": "10/14/2017 Princeton: 53 / Brown: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/20/2017",
+    "name": "Harvard",
+    "princeton": 52,
+    "opponent": 17,
+    "description": "10/20/2017 Princeton: 52 / Harvard: 17",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/28/2017",
+    "name": "Cornell",
+    "princeton": 28,
+    "opponent": 29,
+    "description": "10/28/2017 Princeton: 28 / Cornell: 29",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/4/2017",
+    "name": "Penn",
+    "princeton": 35,
+    "opponent": 38,
+    "description": "11/4/2017 Princeton: 35 / Penn: 38",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/11/2017",
+    "name": "Yale",
+    "princeton": 31,
+    "opponent": 35,
+    "description": "11/11/2017 Princeton: 31 / Yale: 35",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/18/2017",
+    "name": "Dartmouth",
+    "princeton": 44,
+    "opponent": 54,
+    "description": "11/18/2017 Princeton: 44 / Dartmouth: 54",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/25/2018",
+    "name": "Butler",
+    "princeton": 50,
+    "opponent": 7,
+    "description": "9/25/2018 Princeton: 50 / Butler: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/22/2018",
+    "name": "Monmouth",
+    "princeton": 51,
+    "opponent": 9,
+    "description": "9/22/2018 Princeton: 51 / Monmouth: 9",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/2018",
+    "name": "Columbia",
+    "princeton": 45,
+    "opponent": 10,
+    "description": "9/28/2018 Princeton: 45 / Columbia: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/6/2018",
+    "name": "Lehigh",
+    "princeton": 66,
+    "opponent": 7,
+    "description": "10/6/2018 Princeton: 66 / Lehigh: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/13/2018",
+    "name": "Brown",
+    "princeton": 48,
+    "opponent": 10,
+    "description": "10/13/2018 Princeton: 48 / Brown: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/20/2018",
+    "name": "Harvard",
+    "princeton": 29,
+    "opponent": 21,
+    "description": "10/20/2018 Princeton: 29 / Harvard: 21",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/27/2018",
+    "name": "Cornell",
+    "princeton": 66,
+    "opponent": 0,
+    "description": "10/27/2018 Princeton: 66 / Cornell: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/3/2018",
+    "name": "Dartmouth",
+    "princeton": 14,
+    "opponent": 9,
+    "description": "11/3/2018 Princeton: 14 / Dartmouth: 9",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/10/2018",
+    "name": "Yale",
+    "princeton": 59,
+    "opponent": 43,
+    "description": "11/10/2018 Princeton: 59 / Yale: 43",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/17/2018",
+    "name": "Penn",
+    "princeton": 42,
+    "opponent": 14,
+    "description": "11/17/2018 Princeton: 42 / Penn: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/21/2019",
+    "name": "Butler",
+    "princeton": 49,
+    "opponent": 7,
+    "description": "9/21/2019 Princeton: 49 / Butler: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "9/28/2019",
+    "name": "Bucknell",
+    "princeton": 56,
+    "opponent": 23,
+    "description": "9/28/2019 Princeton: 56 / Bucknell: 23",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/5/2019",
+    "name": "Columbia",
+    "princeton": 21,
+    "opponent": 10,
+    "description": "10/5/2019 Princeton: 21 / Columbia: 10",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/11/2019",
+    "name": "Lafayette",
+    "princeton": 28,
+    "opponent": 3,
+    "description": "10/11/2019 Princeton: 28 / Lafayette: 3",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/19/2019",
+    "name": "Brown",
+    "princeton": 65,
+    "opponent": 22,
+    "description": "10/19/2019 Princeton: 65 / Brown: 22",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/26/2019",
+    "name": "Harvard",
+    "princeton": 30,
+    "opponent": 24,
+    "description": "10/26/2019 Princeton: 30 / Harvard: 24",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/1/2019",
+    "name": "Cornell",
+    "princeton": 21,
+    "opponent": 7,
+    "description": "11/1/2019 Princeton: 21 / Cornell: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/9/2019",
+    "name": "Dartmouth",
+    "princeton": 10,
+    "opponent": 27,
+    "description": "11/9/2019 Princeton: 10 / Dartmouth: 27",
+    "win": "L",
+    "H/A/N": "N"
+  },
+  {
+    "date": "11/16/2019",
+    "name": "Yale",
+    "princeton": 14,
+    "opponent": 51,
+    "description": "11/16/2019 Princeton: 14 / Yale: 51",
+    "win": "L",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/23/2019",
+    "name": "Penn",
+    "princeton": 28,
+    "opponent": 7,
+    "description": "11/23/2019 Princeton: 28 / Penn: 7",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/18/2021",
+    "name": "Lehigh",
+    "princeton": 32,
+    "opponent": 0,
+    "description": "9/18/2021 Princeton: 32 / Lehigh: 0",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/25/2021",
+    "name": "Stetson",
+    "princeton": 63,
+    "opponent": 0,
+    "description": "9/25/2021 Princeton: 63 / Stetson: 0",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/2/2021",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 7,
+    "description": "10/2/2021 Princeton: 24 / Columbia: 7",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/9/2021",
+    "name": "Monmouth",
+    "princeton": 31,
+    "opponent": 28,
+    "description": "10/9/2021 Princeton: 31 / Monmouth: 28",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/16/2021",
+    "name": "Brown",
+    "princeton": 56,
+    "opponent": 42,
+    "description": "10/16/2021 Princeton: 56 / Brown: 42",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/23/2021",
+    "name": "Harvard",
+    "princeton": 18,
+    "opponent": 16,
+    "description": "10/23/2021 Princeton: 18 / Harvard: 16",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/29/2021",
+    "name": "Cornell",
+    "princeton": 34,
+    "opponent": 16,
+    "description": "10/29/2021 Princeton: 34 / Cornell: 16",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/5/2021",
+    "name": "Dartmouth",
+    "princeton": 7,
+    "opponent": 31,
+    "description": "11/5/2021 Princeton: 7 / Dartmouth: 31",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/13/2021",
+    "name": "Yale",
+    "princeton": 35,
+    "opponent": 20,
+    "description": "11/13/2021 Princeton: 35 / Yale: 20",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/20/2021",
+    "name": "Penn",
+    "princeton": 34,
+    "opponent": 14,
+    "description": "11/20/2021 Princeton: 34 / Penn: 14",
+    "win": "W",
+    "H/A/N": "A"
+  }
+]
