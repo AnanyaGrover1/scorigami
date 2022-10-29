@@ -36,4 +36,5 @@ for (let score in data) {
 }
 
 jsonGrid = JSON.stringify(grid);
+console.log(jsonGrid);
 return jsonGrid;

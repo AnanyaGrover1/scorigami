@@ -72,8 +72,8 @@
 
     // set the dimensions and margins of the graph
     var margin = {top: 80, right: 25, bottom: 30, left: 40},
-      width = 450 - margin.left - margin.right,
-      height = 450 - margin.top - margin.bottom;
+      width = 1400 - margin.left - margin.right,
+      height = 1000 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
     var svg = d3.select("#my_dataviz")
@@ -84,11 +84,11 @@
       .attr("transform",
             "translate(" + margin.left + "," + margin.top + ")");
             //Read the data
-d3.csv("data.json", function(data) {
+d3.json("test.json", function(data) {
 
 // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
-var myGroups = d3.map(data, function(d){return d.group;}).keys()
-var myVars = d3.map(data, function(d){return d.variable;}).keys()
+var myGroups = d3.map(data, function(d){return d.winning_score;}).keys()
+var myVars = d3.map(data, function(d){return d.losing_score;}).keys()
 
 // Build X scales and axis:
 var x = d3.scaleBand()
@@ -103,7 +103,7 @@ svg.append("g")
 
 // Build Y scales and axis:
 var y = d3.scaleBand()
-  .range([ height, 0 ])
+  .range([ 0, height ])
   .domain(myVars)
   .padding(0.05);
 svg.append("g")
@@ -137,7 +137,7 @@ var mouseover = function(d) {
 }
 var mousemove = function(d) {
   tooltip
-    .html("The more recent game with this score is: " + d.value)
+    .html("The first game with this score is: " + d.firstGame)
     .style("left", (d3.mouse(this)[0]+70) + "px")
     .style("top", (d3.mouse(this)[1]) + "px")
 }
@@ -151,16 +151,16 @@ var mouseleave = function(d) {
 
 // add the squares
 svg.selectAll()
-  .data(data, function(d) {return d.group+':'+d.variable;})
+  .data(data, function(d) {return d.winning_score+':'+d.losing_score;})
   .enter()
   .append("rect")
-    .attr("x", function(d) { return x(d.group) })
-    .attr("y", function(d) { return y(d.variable) })
+    .attr("x", function(d) { return x(d.winning_score) })
+    .attr("y", function(d) { return y(d.losing_score) })
     .attr("rx", 4)
     .attr("ry", 4)
     .attr("width", x.bandwidth() )
     .attr("height", y.bandwidth() )
-    .style("fill", function(d) { return myColor(d.value)} )
+    .style("fill", function(d) { return myColor(d.count)} )
     .style("stroke-width", 4)
     .style("stroke", "none")
     .style("opacity", 0.8)
