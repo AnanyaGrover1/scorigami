@@ -35,4 +35,6 @@ for (let score in data) {
     else scorePair.lastGame = e.description;
 }
 
-console.log(grid);
+jsonGrid = JSON.stringify(grid);
+console.log(jsonGrid);
+return jsonGrid;
