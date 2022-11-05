@@ -17,7 +17,7 @@ export async function parse() {
         let e = data[score];
         let c = e.princeton;
         let r = e.opponent;
-
+        
         // Swap the rows and columns so the winning team will be on top
         // instead of Princeton, similar to actual Scorigami. May be
         // removed depending on the Sports section's wishes.
@@ -33,9 +33,8 @@ export async function parse() {
         else scorePair.lastGame = e.description;
         scorePair.losing_score = r;
         scorePair.winning_score = c;
-
+        
     }
-
 
     const blob = new Blob([JSON.stringify(grid)], {type: "application/json"});
     return URL.createObjectURL(blob);

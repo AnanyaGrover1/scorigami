@@ -21,7 +21,9 @@ d3.json(await parse(), function(data) {
     var myGroups = d3.map(data, function(d){return d.winning_score;}).keys()
     var myVars = d3.map(data, function(d){return d.losing_score;}).keys()
 
-// Build X scales and axis:
+    console.log(function(d){return d.winning_score;});
+
+    // Build X scales and axis:
     var x = d3.scaleBand()
         .range([ 0, width ])
         .domain(myGroups)
@@ -45,7 +47,7 @@ d3.json(await parse(), function(data) {
 // Build color scale
     var myColor = d3.scaleSequential()
         .interpolator(d3.interpolateInferno)
-        .domain([1,100])
+        .domain([1, 16])
 
 // create a tooltip
     var tooltip = d3.select("#my_dataviz")
