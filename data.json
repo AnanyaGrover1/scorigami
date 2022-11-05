@@ -2084,7 +2084,7 @@
     "princeton": 16,
     "opponent": 6,
     "description": "11/11/1944 Princeton: 16 / Muhlenberg: 6",
-    "win": "",
+    "win": "W",
     "H/A/N": "H"
   },
   {
@@ -2093,7 +2093,7 @@
     "princeton": 0,
     "opponent": 3,
     "description": "11/18/1944 Princeton: 0 / Swarthmore: 3",
-    "win": "",
+    "win": "L",
     "H/A/N": "H"
   },
   {

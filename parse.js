@@ -2,7 +2,13 @@ export async function parse() {
     let file = 'data.json';
     let response = await fetch(file);
     let data = await response.json();
-    const box = {'losing_score': 0, 'winning_score': 0, 'count': 0, 'lastGame': 'n/a', 'firstGame': 'n/a'};
+    const box = {
+        'losing_score': 0,
+        'winning_score': 0,
+        'count': 0,
+        'lastGame': 'n/a',
+        'firstGame': 'n/a',
+    };
 
     // Fill the empty grid array with new arrays of the same
     // length, then fill those arrays with a new object based
@@ -11,13 +17,16 @@ export async function parse() {
     let grid = new Array(5776);
     for (let i = 0; i < grid.length; i++) {
         grid[i] = Object.create(box);
+        grid[i].winning_score = (i % 76);
+        grid[i].losing_score = Math.floor(i/76);
+        if ((i % 76) < Math.floor(i / 76)) grid[i].count = -1;
     }
 
     for (let score in data) {
         let e = data[score];
         let c = e.princeton;
         let r = e.opponent;
-        
+
         // Swap the rows and columns so the winning team will be on top
         // instead of Princeton, similar to actual Scorigami. May be
         // removed depending on the Sports section's wishes.
