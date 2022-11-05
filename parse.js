@@ -14,12 +14,14 @@ export async function parse() {
     // length, then fill those arrays with a new object based
     // on the prototype above. Length of these arrays may
     // be changed based on the Sports section's discretion.
-    let grid = new Array(5776);
+    let grid = new Array(51 * 77);
     for (let i = 0; i < grid.length; i++) {
         grid[i] = Object.create(box);
-        grid[i].winning_score = (i % 76);
-        grid[i].losing_score = Math.floor(i/76);
-        if ((i % 76) < Math.floor(i / 76)) grid[i].count = -1;
+        grid[i].winning_score = (i % 77);
+        grid[i].losing_score = Math.floor(i/77);
+        // this is weird but we have to do else 0
+        if ((i % 77) < Math.floor(i / 77)) grid[i].count = -1;
+        else grid[i].count = 0;
     }
 
     for (let score in data) {
@@ -36,7 +38,7 @@ export async function parse() {
             r = temp;
         }
 
-        let scorePair = grid[r * 76 + c];
+        let scorePair = grid[r * 77 + c];
         scorePair.count++;
         if (scorePair.firstGame === 'n/a') scorePair.firstGame = e.description;
         else scorePair.lastGame = e.description;

@@ -2,8 +2,8 @@ import { parse } from "./parse.js";
 
 // set the dimensions and margins of the graph
 var margin = {top: 80, right: 25, bottom: 30, left: 40},
-    width = 1400 - margin.left - margin.right,
-    height = 1000 - margin.top - margin.bottom;
+    width = 1200 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
 var svg = d3.select("#my_dataviz")
@@ -46,7 +46,8 @@ d3.json(await parse(), function(data) {
 
 // Build color scale
     var myColor = d3.scaleSequential()
-        .interpolator(d3.interpolateSpectral)
+        // .interpolator(d3.interpolate("#f58025", "black"))
+        .interpolator(d3.interpolate("orange", "#e60e11"))
         .domain([1, 10])
 
 // create a tooltip
@@ -89,11 +90,13 @@ d3.json(await parse(), function(data) {
         .append("rect")
         .attr("x", function(d) { return x(d.winning_score) })
         .attr("y", function(d) { return y(d.losing_score) })
-        .attr("rx", 4)
-        .attr("ry", 4)
         .attr("width", x.bandwidth() )
         .attr("height", y.bandwidth() )
-        .style("fill", function(d) { return myColor(d.count)} )
+        .style("fill", function(d) { 
+            if(d.count == -1) return "black";
+            else if(d.count == 0) return "white";
+            else return myColor(d.count)
+        } )
         .style("stroke-width", 4)
         .style("stroke", "none")
         .style("opacity", 0.8)
