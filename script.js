@@ -46,8 +46,8 @@ d3.json(await parse(), function(data) {
 
 // Build color scale
     var myColor = d3.scaleSequential()
-        .interpolator(d3.interpolateInferno)
-        .domain([1, 16])
+        .interpolator(d3.interpolateSpectral)
+        .domain([1, 10])
 
 // create a tooltip
     var tooltip = d3.select("#my_dataviz")
