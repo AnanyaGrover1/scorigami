@@ -1,7 +1,7 @@
 export async function parse() {
-    let file = 'data.json';
-    let response = await fetch(file);
-    let data = await response.json();
+    const file = 'data.json';
+    const response = await fetch(file);
+    const data = await response.json();
     const box = {
         'losing_score': 0,
         'winning_score': 0,
@@ -10,18 +10,25 @@ export async function parse() {
         'firstGame': 'n/a',
     };
 
-    // Fill the empty grid array with new arrays of the same
-    // length, then fill those arrays with a new object based
-    // on the prototype above. Length of these arrays may
-    // be changed based on the Sports section's discretion.
-    let grid = new Array(51 * 77);
+    // Fill empty grid array with new arrays of the same
+    // length, then fill those arrays with new box object.
+    const cTotal = 77;
+    const rTotal = 51;
+    const grid = new Array(rTotal * cTotal);
     for (let i = 0; i < grid.length; i++) {
-        grid[i] = Object.create(box);
-        grid[i].winning_score = (i % 77);
-        grid[i].losing_score = Math.floor(i/77);
-        // this is weird but we have to do else 0
-        if ((i % 77) < Math.floor(i / 77)) grid[i].count = -1;
-        else grid[i].count = 0;
+        let c = i % cTotal;
+        let r = Math.floor(i / cTotal);
+        grid[i] = {...box}; // shoutouts to johnny
+        grid[i].winning_score = c;
+        grid[i].losing_score = r;
+
+        // Handle exceptions, such as when winning score
+        // is less than losing score or other impossible scores.
+        if (
+            c < r ||
+            r === 0 && c === 1 ||
+            r === 1 && (c >= 1 && c <= 7 && c !== 6)
+        ) grid[i].count = -1;
     }
 
     for (let score in data) {
@@ -38,7 +45,7 @@ export async function parse() {
             r = temp;
         }
 
-        let scorePair = grid[r * 77 + c];
+        let scorePair = grid[r * cTotal + c];
         scorePair.count++;
         if (scorePair.firstGame === 'n/a') scorePair.firstGame = e.description;
         else scorePair.lastGame = e.description;
@@ -49,8 +56,4 @@ export async function parse() {
 
     const blob = new Blob([JSON.stringify(grid)], {type: "application/json"});
     return URL.createObjectURL(blob);
-    // Promise.resolve(URL.createObjectURL(blob)).then((value) => {
-    //     console.log(value);
-    //     blobURL = value;
-    // });
 }
