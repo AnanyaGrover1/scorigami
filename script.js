@@ -29,10 +29,17 @@ d3.json(await parse(), function(data) {
         .domain(myGroups)
         .padding(0.05);
     svg.append("g")
-        .style("font-size", 15)
+        .style("font-size", 8)
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(x).tickSize(0))
-        .select(".domain").remove()
+        .select(".domain").remove();
+    svg.append("text")
+        .attr("class", "x label")
+        .attr("text-anchor", "end")
+        .attr("x", width/2)
+        .attr("y", height + 25)
+        .text("Winning Team Score");
+    
 
 // Build Y scales and axis:
     var y = d3.scaleBand()
@@ -40,9 +47,17 @@ d3.json(await parse(), function(data) {
         .domain(myVars)
         .padding(0.05);
     svg.append("g")
-        .style("font-size", 15)
+        .style("font-size", 8)
         .call(d3.axisLeft(y).tickSize(0))
         .select(".domain").remove()
+    svg.append("text")
+        .attr("class", "y label")
+        .attr("text-anchor", "end")
+        .attr("x", -height/2 + height/10)
+        .attr("y", -30)
+        .attr("dy", "0.75em")
+        .attr("transform", "rotate(-90)")
+        .text("Losing Team Score");
 
 // Build color scale
     var myColor = d3.scaleSequential()
@@ -55,11 +70,14 @@ d3.json(await parse(), function(data) {
         .append("div")
         .style("opacity", 0)
         .attr("class", "tooltip")
-        .style("background-color", "white")
+        .style("background-color", "black")
         .style("border", "solid")
         .style("border-width", "2px")
         .style("border-radius", "5px")
+        .style("border-color", "black")
         .style("padding", "5px")
+        .style("position", "absolute")
+        .style("color", "white")
 
 // Three function that change the tooltip when user hover / move / leave a cell
     var mouseover = function() {
@@ -71,9 +89,26 @@ d3.json(await parse(), function(data) {
     }
     var mousemove = function(d) {
         tooltip
+            .style("left", (d3.event.pageX) + "px")
+            .style("top", (d3.event.pageY) + "px")
+
+        if(d.count > 1) {
+        tooltip
+            .html("The first game with this score is: " + d.firstGame + ", and the last game is " + d.lastGame) 
+            
+        }else if(d.count == 1) {
+            tooltip
             .html("The first game with this score is: " + d.firstGame)
-            .style("left", (d3.mouse(this)[0]+70) + "px")
-            .style("top", (d3.mouse(this)[1]) + "px")
+
+        } else if(d.count == 0) {
+            tooltip
+            .html("There has been no game with the score " + d.winning_score+':'+d.losing_score + " yet!")
+
+        } else {
+            tooltip
+            .html("This score is impossible!")
+        }
+
     }
     var mouseleave = function() {
         tooltip
@@ -97,7 +132,7 @@ d3.json(await parse(), function(data) {
             else if(d.count == 0) return "white";
             else return myColor(d.count)
         } )
-        .style("stroke-width", 4)
+        .style("stroke-width", 1)
         .style("stroke", "none")
         .style("opacity", 0.8)
         .on("mouseover", mouseover)
