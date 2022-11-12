@@ -78,6 +78,8 @@ d3.json(await parse(), function(data) {
         .style("padding", "5px")
         .style("position", "absolute")
         .style("color", "white")
+        .style("pointer-events", "none")
+        .style("max-width", "400px")
 
 // Three function that change the tooltip when user hover / move / leave a cell
     var mouseover = function() {
