@@ -142,21 +142,3 @@ d3.json(await parse(), function(data) {
         .on("mouseleave", mouseleave)
 })
 
-// Add title to graph
-svg.append("text")
-    .attr("x", 0)
-    .attr("y", -50)
-    .attr("text-anchor", "left")
-    .style("font-size", "22px")
-    .text("Princeton Scorigami");
-
-// Add subtitle to graph
-svg.append("text")
-    .attr("x", 0)
-    .attr("y", -20)
-    .attr("text-anchor", "left")
-    .style("font-size", "14px")
-    .style("fill", "grey")
-    .style("max-width", 400)
-    .text("A short description of the take-away message of this chart.");
-
