@@ -1,7 +1,7 @@
 import { parse } from "./parse.js";
 
 // set the dimensions and margins of the graph
-var margin = {top: 80, right: 25, bottom: 30, left: 40},
+var margin = {top: 20, right: 25, bottom: 30, left: 40},
     width = 1200 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
@@ -35,7 +35,7 @@ d3.json(await parse(), function(data) {
         .select(".domain").remove();
     svg.append("text")
         .attr("class", "x label")
-        .attr("text-anchor", "end")
+        .attr("text-anchor", "middle")
         .attr("x", width/2)
         .attr("y", height + 25)
         .text("Winning Team Score");
@@ -131,7 +131,7 @@ d3.json(await parse(), function(data) {
         .attr("height", y.bandwidth() )
         .style("fill", function(d) { 
             if(d.count == -1) return "black";
-            else if(d.count == 0) return "white";
+            else if(d.count == 0) return "#f5f5f5";
             else return myColor(d.count)
         } )
         .style("stroke-width", 1)

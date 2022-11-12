@@ -3,3 +3,47 @@
         overflow-x: scroll;   
     }
 }
+
+#scrollable {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+* {
+    margin: 0; padding: 0;
+    font-family: minion-pro;
+}
+
+.scorigami {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 45px;
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.overline {
+    font-family: franklin-gothic-urw-cond;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
+.spacer {
+    height: 600px;
+}
+.body-text{
+    width: 70%;
+    margin: auto;
+}
+
+.byline {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
