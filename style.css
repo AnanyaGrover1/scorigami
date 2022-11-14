@@ -1,21 +1,15 @@
-@media screen and (max-width: 800px){
-    #scrollable{
-        overflow-x: scroll;   
-    }
-}
-
 #scrollable {
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
-* {
-    margin: 0; padding: 0;
-    font-family: minion-pro;
+#header {
+    padding-top: 40px;
+}
+
+#tutorial {
+    display: none;
 }
 
 .scorigami {
@@ -28,22 +22,93 @@
 }
 
 .overline {
-    font-family: franklin-gothic-urw-cond;
+    font-family: franklin-gothic-urw-cond, serif;
     font-size: 20px;
     font-weight: bold;
     margin-top: 20px;
-    
-}
 
-.spacer {
-    height: 600px;
-}
-.body-text{
-    width: 70%;
-    margin: auto;
 }
 
 .byline {
     font-size: 20px;
     padding-bottom: 20px;
+}
+
+.body-text{
+    width: 70%;
+    margin: auto;
+}
+
+@media screen and (max-width: 800px) {
+    .scorigami {
+        font-size: 40px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+        line-height: 35px;
+    }
+
+    .overline {
+        font-size: 15px;
+
+    }
+
+    .byline {
+        font-size: 15px;
+    }
+
+    .body-text {
+        width: 90%;
+    }
+
+    #scrollable {
+        overflow-x: scroll;
+        justify-content: flex-start;
+    }
+
+    #header {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    #tutorial {
+        animation: shake ease 3s;
+        animation-iteration-count: 3;
+        animation-fill-mode: forwards;
+        font-size: 20pt;
+        font-weight: bold;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    @keyframes shake {
+        0% {
+            transform: translateX(0);
+        }
+
+        20% {
+            transform: translateX(-10px);
+        }
+
+        40% {
+            transform: translateX(10px);
+        }
+
+        60% {
+            transform: translateX(-10px);
+        }
+
+        80% {
+            transform: translateX(10px);
+        }
+
+        100% {
+            transform: translateX(0);
+        }
+    }
+}
+
+* {
+    margin: 0; padding: 0;
+    font-family: minion-pro, serif;
 }
