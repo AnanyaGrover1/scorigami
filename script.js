@@ -121,10 +121,11 @@ d3.json(await parse(), function(data) {
     }
 
 // add the squares
-    svg.selectAll()
+var squares = svg.selectAll()
         .data(data, function(d) {return d.winning_score+':'+d.losing_score;})
-        .enter()
-        .append("rect")
+        .enter().append("g")
+
+var rectangles = squares.append("rect")
         .attr("x", function(d) { return x(d.winning_score) })
         .attr("y", function(d) { return y(d.losing_score) })
         .attr("width", x.bandwidth() )
@@ -137,8 +138,22 @@ d3.json(await parse(), function(data) {
         .style("stroke-width", 1)
         .style("stroke", "none")
         .style("opacity", 0.8)
-        .on("mouseover", mouseover)
-        .on("mousemove", mousemove)
-        .on("mouseleave", mouseleave)
+
+    squares.append("text")
+        // .attr("x", function(d) { return x(d) - 3; })
+        // .attr("y", barHeight / 2)
+        // .attr("dy", ".35em")
+        .style("font-size", 10)
+        .attr("x", function(d) { return x(d.winning_score) + x.bandwidth() / 2})
+        .attr("y", function(d) { return y(d.losing_score) + y.bandwidth() - 2})
+        .style("text-anchor", "middle")
+        .style("fill", "white")
+        .text(function(d) { if(d.count > 0) return d.count; })
+        .style("pointer-events", "none")
+
+    rectangles
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave)
 })
 
