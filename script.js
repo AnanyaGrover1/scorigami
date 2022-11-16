@@ -1,7 +1,7 @@
 import { parse } from "./parse.js";
 
 // set the dimensions and margins of the graph
-var margin = {top: 20, right: 25, bottom: 60, left: 40},
+var margin = {top: 20, right: 25, bottom: 30, left: 40},
     width = 1200 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
@@ -151,33 +151,26 @@ var rectangles = squares.append("rect")
         .style("stroke", "none")
         .style("opacity", 0.8)
 // this adds box labels
-    // squares.append("text")
-    //     .style("font-size", 10)
-    //     .attr("x", function(d) { return x(d.winning_score) + x.bandwidth() / 2})
-    //     .attr("y", function(d) { return y(d.losing_score) + y.bandwidth() - 2})
-    //     .style("text-anchor", "middle")
-    //     .style("fill", "white")
-    //     .text(function(d) { if(d.count > 0) return d.count; })
-    //     .style("pointer-events", "none")
-
-    // tried to implement toggle, this does not work for some reason.
-    // svg.append("text")
-    //     .attr("text-anchor", "end")
-    //     .attr("x", width/10)
-    //     .attr("y", height + 50)
-    //     .attr("class", "legend")
-    //     .style("fill", "black")
-    //     .style("font-weight", "bold")        
-    //     .on("click", function(){
-    //       // hide or show the elements
-    //      squares.style("font-size", 0)
-
-    //     })
-    //     .text("Show Count");
+var square_labels = squares.append("text")
+        .style("font-size", 0)
+        .attr("x", function(d) { return x(d.winning_score) + x.bandwidth() / 2})
+        .attr("y", function(d) { return y(d.losing_score) + y.bandwidth() - 1.5})
+        .style("text-anchor", "middle")
+        .style("fill", "white")
+        .text(function(d) { if(d.count > 0) return d.count; })
+        .style("pointer-events", "none")
 
     rectangles
     .on("mouseover", mouseover)
     .on("mousemove", mousemove)
     .on("mouseleave", mouseleave)
-})
 
+    document.getElementById('switch').addEventListener("click", function() {
+        if(document.getElementById('switch').checked){
+            square_labels.style("font-size", 10 + "px")
+        } else {
+            square_labels.style("font-size", 0 + "px")
+        }
+        console.log("here2")
+      });
+})
