@@ -101,13 +101,8 @@ d3.json(await parse(), function(data) {
                 .style("top", (d3.event.pageY) + "px")
                 .style("left", "auto")
                 .style("width", "fit-content")
-                if(window.screen.width > 800) {
-                    tooltip
-                        .style("right", 0.97*window.screen.width - (d3.event.pageX)+ "px")
-                } else {
-                    tooltip
-                        .style("right", window.screen.width - (d3.event.pageX)+ "px")
-                }
+                .style("right", window.screen.width - (d3.event.pageX)+ "px")
+
 
 
         }
