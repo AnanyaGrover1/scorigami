@@ -39,6 +39,10 @@
     margin: auto;
 }
 
+.tooltip-header {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 800px) {
     .scorigami {
         font-size: 40px;

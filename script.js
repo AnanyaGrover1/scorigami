@@ -1,7 +1,7 @@
 import { parse } from "./parse.js";
 
 // set the dimensions and margins of the graph
-var margin = {top: 20, right: 25, bottom: 30, left: 40},
+var margin = {top: 20, right: 25, bottom: 60, left: 40},
     width = 1200 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
@@ -90,25 +90,42 @@ d3.json(await parse(), function(data) {
             .style("opacity", 1)
     }
     var mousemove = function(d) {
-        tooltip
-            .style("left", (d3.event.pageX) + "px")
-            .style("top", (d3.event.pageY) + "px")
+        if(d3.event.pageX < (0.5 * window.screen.width )) {
+            tooltip
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY) + "px")
+                .style("right", "auto")
+                .style("width", "fit-content")
+        } else {
+            tooltip
+                .style("top", (d3.event.pageY) + "px")
+                .style("left", "auto")
+                .style("width", "fit-content")
+                if(window.screen.width > 800) {
+                    tooltip
+                        .style("right", 0.97*window.screen.width - (d3.event.pageX)+ "px")
+                } else {
+                    tooltip
+                        .style("right", window.screen.width - (d3.event.pageX)+ "px")
+                }
 
+
+        }
         if(d.count > 1) {
         tooltip
-            .html("The first game with this score is: " + d.firstGame + ", and the last game is " + d.lastGame) 
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There have been " + d.count + " games with this score. " + "<br>" + "The first was " + d.firstGame + "<br>" + "The lastest  was " + d.lastGame) 
             
         }else if(d.count == 1) {
             tooltip
-            .html("The first game with this score is: " + d.firstGame)
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There has been one game with this score: " + "<br>" + d.firstGame)
 
         } else if(d.count == 0) {
             tooltip
-            .html("There has been no game with the score " + d.winning_score+':'+d.losing_score + " yet!")
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There has been no game with this score yet!")
 
         } else {
             tooltip
-            .html("This score is impossible!")
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "This score is impossible!")
         }
 
     }
@@ -147,6 +164,21 @@ var rectangles = squares.append("rect")
     //     .style("fill", "white")
     //     .text(function(d) { if(d.count > 0) return d.count; })
     //     .style("pointer-events", "none")
+
+    // tried to implement toggle, this does not work for some reason.
+    // svg.append("text")
+    //     .attr("text-anchor", "end")
+    //     .attr("x", width/10)
+    //     .attr("y", height + 50)
+    //     .attr("class", "legend")
+    //     .style("fill", "black")
+    //     .style("font-weight", "bold")        
+    //     .on("click", function(){
+    //       // hide or show the elements
+    //      squares.style("font-size", 0)
+
+    //     })
+    //     .text("Show Count");
 
     rectangles
     .on("mouseover", mouseover)
