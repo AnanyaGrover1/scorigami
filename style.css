@@ -16,6 +16,16 @@
     display: none;
 }
 
+#grid {
+    display: flex;
+    justify-content: center;
+}
+
+#yaxis {
+    width: 37px;
+    padding-right: 10px;
+}
+
 .toggle-wrapper{
     width: 1130px;
     margin: auto;
