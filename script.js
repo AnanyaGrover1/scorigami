@@ -16,7 +16,7 @@ var svg = d3.select("#my_dataviz")
 
 var svg2 = d3.select("#yaxis")
     .append("svg")
-    .attr("width", width)
+    .attr("width", 40)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform",
@@ -28,8 +28,6 @@ d3.json(await parse(), function(data) {
 // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
     var myGroups = d3.map(data, function(d){return d.winning_score;}).keys()
     var myVars = d3.map(data, function(d){return d.losing_score;}).keys()
-
-    console.log(function(d){return d.winning_score;});
 
     // Build X scales and axis:
     var x = d3.scaleBand()
@@ -69,7 +67,6 @@ d3.json(await parse(), function(data) {
 
 // Build color scale
     var myColor = d3.scaleSequential()
-        // .interpolator(d3.interpolate("#f58025", "black"))
         .interpolator(d3.interpolate("orange", "#e60e11"))
         .domain([1, 10])
 
@@ -116,7 +113,7 @@ d3.json(await parse(), function(data) {
         }
         if(d.count > 1) {
         tooltip
-            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There have been " + d.count + " games with this score. " + "<br>" + "The first was " + d.firstGame + "<br>" + "The lastest  was " + d.lastGame) 
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There have been " + d.count + " games with this score. " + "<br>" + "The first was " + d.firstGame + "<br>" + "The latest was " + d.lastGame)
             
         }else if(d.count == 1) {
             tooltip
@@ -179,6 +176,5 @@ var square_labels = squares.append("text")
         } else {
             square_labels.style("font-size", 0 + "px")
         }
-        console.log("here2")
       });
 })

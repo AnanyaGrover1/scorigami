@@ -30,6 +30,12 @@
     width: 1130px;
     margin: auto;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#showCount {
+    display: flex;
     align-items: center;
 }
 
@@ -70,6 +76,17 @@
 
 .tooltip-header {
     font-weight: bold;
+}
+
+.key {
+    display: flex;
+    gap: 10px;
+}
+
+.gradient {
+    border-radius: 50px;
+    width: 10vw;
+    background-image: linear-gradient(to right, orange, #e60e11);
 }
 
 @media screen and (max-width: 1200px) {
