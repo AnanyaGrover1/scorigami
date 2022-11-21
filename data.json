@@ -8566,5 +8566,95 @@
     "description": "11/20/2021 Princeton: 34 / Penn: 14",
     "win": "W",
     "H/A/N": "A"
+  },
+  {
+    "date": "9/17/2022",
+    "name": "Stetson",
+    "princeton": 39,
+    "opponent": 14,
+    "description": "9/17/2022 Princeton: 39 / Stetson: 14",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "9/24/2022",
+    "name": "Lehigh",
+    "princeton": 29,
+    "opponent": 17,
+    "description": "9/24/2022 Princeton: 29 / Lehigh: 17",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/1/2022",
+    "name": "Columbia",
+    "princeton": 24,
+    "opponent": 6,
+    "description": "10/1/2022 Princeton: 24 / Columbia: 6",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/8/2022",
+    "name": "Lafayette",
+    "princeton": 23,
+    "opponent": 2,
+    "description": "10/8/2022 Princeton: 23 / Lafayette: 2",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/14/2022",
+    "name": "Brown",
+    "princeton": 35,
+    "opponent": 19,
+    "description": "10/14/2022 Princeton: 35 / Brown: 19",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "10/21/2022",
+    "name": "Harvard",
+    "princeton": 37,
+    "opponent": 10,
+    "description": "10/21/2022 Princeton: 37 / Harvard: 10",
+    "win": "W",
+    "H/A/N": "A"
+  },
+  {
+    "date": "10/29/2022",
+    "name": "Cornell",
+    "princeton": 35,
+    "opponent": 9,
+    "description": "10/29/2022 Princeton: 35 / Cornell: 9",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/5/2022",
+    "name": "Dartmouth",
+    "princeton": 17,
+    "opponent": 14,
+    "description": "11/5/2022 Princeton: 17 / Dartmouth: 14",
+    "win": "W",
+    "H/A/N": "H"
+  },
+  {
+    "date": "11/12/2022",
+    "name": "Yale",
+    "princeton": 20,
+    "opponent": 24,
+    "description": "11/12/2022 Princeton: 20 / Yale: 24",
+    "win": "L",
+    "H/A/N": "A"
+  },
+  {
+    "date": "11/19/2022",
+    "name": "Penn",
+    "princeton": 19,
+    "opponent": 20,
+    "description": "11/19/2022 Princeton: 19 / Penn: 20",
+    "win": "L",
+    "H/A/N": "H"
   }
 ]
