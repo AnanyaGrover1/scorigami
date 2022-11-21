@@ -123,7 +123,12 @@ d3.json(await parse(), function(data) {
             tooltip
             .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There has been no game with this score yet!")
 
-        } else {
+        } else if(d.count == -2) {
+            tooltip
+            .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "The winning team can’t have fewer points than the losing team!")
+
+        } 
+        else {
             tooltip
             .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "This score is impossible!")
         }
@@ -148,7 +153,7 @@ var rectangles = squares.append("rect")
         .attr("width", x.bandwidth() )
         .attr("height", y.bandwidth() )
         .style("fill", function(d) { 
-            if(d.count == -1) return "black";
+            if(d.count < 0) return "black";
             else if(d.count == 0) return "#f5f5f5";
             else return myColor(d.count)
         } )

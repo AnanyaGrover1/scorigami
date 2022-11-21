@@ -25,10 +25,12 @@ export async function parse() {
         // Handle exceptions, such as when winning score
         // is less than losing score or other impossible scores.
         if (
-            c < r ||
             r === 0 && c === 1 ||
             r === 1 && (c >= 1 && c <= 7 && c !== 6)
         ) grid[i].count = -1;
+
+        else if (c < r) grid[i].count = -2;
+    
     }
 
     for (let score in data) {
