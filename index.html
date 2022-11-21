@@ -1,128 +1,161 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <!-- usually this can just be the headline, but check in -->
-    <title>Princeton Scorigami</title>
-    <!--
+  <!-- usually this can just be the headline, but check in -->
+  <title>Princeton Scorigami</title>
+  <!--
         CHANGE THIS! "preview-img.png" defines what the preview image will be for
         links and social media, so be sure to change this to whatever the
          dominant media will be
     -->
-    <meta property="og:image" content="preview-img.png">
+  <meta property="og:image" content="preview-img.png">
 
-    <!--
+  <!--
         CHANGE THIS! Make the content something meaningful to the article
         (reach out to editor for suggestions if needed)
     -->
-    <meta property=“og:description” content="This is a scorigami for Princeton's games with its opponents."/>
+  <meta property=“og:description” content="This is a scorigami for Princeton's games with its opponents." />
 
-    <!-- defines standard character set—useful for ensuring curly quotes
+  <!-- defines standard character set—useful for ensuring curly quotes
       aren't corrupted by different encodings -->
 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
-    <!-- ensures mobile layout works-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- ensures mobile layout works-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <!-- link to our logo for favicon -->
-    <link rel="icon" type="image/png"
-          href="https://dirgyzwl2hnqq.cloudfront.net/ff9419fb986f760c1b0b24d4b9046051/dist/img/favicons/apple-icon-57x57.png"/>
+  <!-- link to our logo for favicon -->
+  <link rel="icon" type="image/png"
+    href="https://dirgyzwl2hnqq.cloudfront.net/ff9419fb986f760c1b0b24d4b9046051/dist/img/favicons/apple-icon-57x57.png" />
 
-    <!-- Global site tag (gtag.js) - Google Analytics COMMENT OUT UNTIL PUB -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-H0QFG1LJXS"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics COMMENT OUT UNTIL PUB -->
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-H0QFG1LJXS"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-H0QFG1LJXS');
     </script> -->
-    <!--/site tag-->
+  <!--/site tag-->
 
-    <!--
+  <!--
         a reference to our brand fonts (if there's any Adobe font not
         available on the stylesheet, let the head digital news
         editor know and it can be added)
     -->
-    <link rel="stylesheet" href="https://use.typekit.net/gkx8zdh.css">
+  <link rel="stylesheet" href="https://use.typekit.net/gkx8zdh.css">
 
-    <!-- reference to your CSS -->
-    <link href="style.css" rel="stylesheet" type="text/css"/>
-    <link href="navbar.css" rel="stylesheet" type="text/css"/>
+  <!-- reference to your CSS -->
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="navbar.css" rel="stylesheet" type="text/css" />
 
-    <!-- reference to your JavaScript -->
-    <script type="module" src="parse.js" defer></script>
-    <script type="module" src="script.js" defer></script>
+  <!-- reference to your JavaScript -->
+  <script type="module" src="parse.js" defer></script>
+  <script type="module" src="script.js" defer></script>
 
-    <!-- add references to additional scripts here if needed -->
-    <!-- Load d3.js -->
-    <script src="https://d3js.org/d3.v4.js"></script>
+  <!-- add references to additional scripts here if needed -->
+  <!-- Load d3.js -->
+  <script src="https://d3js.org/d3.v4.js"></script>
 
-    <!-- Load color palettes -->
-    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <!-- Load color palettes -->
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
 </head>
+
 <body>
-<nav id="top-nav">
+  <nav id="top-nav">
     <span>
       <a href="https://dailyprincetonian.com">
         <img class="logo" alt="The Daily Princetonian logo"
-             src="https://dirgyzwl2hnqq.cloudfront.net/8ab5ccf6483af37484451354a9d9e4e3/dist/img/prince_logo_6-20-2020.svg"/></a>
-        <!-- "https://dirgyzwl2hnqq.cloudfront.net/8ab5ccf6483af37484451354a9d9e4e3/dist/img/prince_logo_scrolled.png"  -->
-        <a href="#coverimage" style="text-decoration: none;"></a><span class="project-name">&ensp;|&ensp;Princeton Scorigami</span>
+          src="https://dirgyzwl2hnqq.cloudfront.net/8ab5ccf6483af37484451354a9d9e4e3/dist/img/prince_logo_6-20-2020.svg" /></a>
+      <!-- "https://dirgyzwl2hnqq.cloudfront.net/8ab5ccf6483af37484451354a9d9e4e3/dist/img/prince_logo_scrolled.png"  -->
+      <a href="#coverimage" style="text-decoration: none;"></a><span class="project-name">&ensp;|&ensp;Princeton
+        Scorigami</span>
     </span>
 
-</nav>
+  </nav>
 
-<!-- Create a div where the graph will take place -->
-<div id="header">
+  <!-- Create a div where the graph will take place -->
+  <div id="header">
     <div class="headline body-text">
-        <div class="overline">PROJECTS</div>
-        <p class="scorigami">We analyzed a century of Princeton football scores. Here's what we found.</p>
-        <div class="byline">By Charlie Roth <br><em> Web Development By Vasila Mirshamsova and Yacoub Kahkajian</em>
-        </div>
+      <div class="overline">PROJECTS</div>
+      <p class="scorigami">We analyzed a century of Princeton football scores. Here's what we found.</p>
+      <div class="byline">By Charlie Roth <br><em> Web Development By Vasila Mirshamsova and Yacoub Kahkajian</em>
+      </div>
     </div>
-    <div id="tutorial">← Scroll horizontally →</div>
+    <div id="tutorial">← Scroll to see full chart →</div>
     <div id="grid">
-        <div id="yaxis"></div>
-        <div id="scrollable">
-            <div id="my_dataviz"></div>
-        </div>
+      <div id="yaxis"></div>
+      <div id="scrollable">
+        <div id="my_dataviz"></div>
+      </div>
     </div>
-        <div class="toggle-wrapper">
-            <div id="showCount">
-                <p class="counts-label">Show Counts</p>
-                <label class="switch">
-                    <input type="checkbox" id="switch">
-                    <span class="slider round"></span>
-                </label>
-            </div>
-            <div class="key">
-                <p><b>1</b></p>
-                <div class="gradient"></div>
-                <p><b>20</b></p>
-            </div>
-        </div>
+    <div class="toggle-wrapper">
+      <div id="showCount">
+        <p class="counts-label">Show Counts</p>
+        <label class="switch">
+          <input type="checkbox" id="switch">
+          <span class="slider round"></span>
+        </label>
+      </div>
+      <div class="key">
+        <p><b>1</b></p>
+        <div class="gradient"></div>
+        <p><b>20</b></p>
+      </div>
+    </div>
 
 
-</div>
-<div class="article body-text">
-    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo
-        enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-        qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-        consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam
-        quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
-        nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse
-        quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
-    <br>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-        laborum.</p>
-</div>
+  </div>
+  <div class="article body-text">
+    <!-- Yay, no errors, warnings, or alerts! -->
+
+    <p>
+    <h1>What is Scorigami?</h1>
+    </p>
+    <p>
+      Inspired by Jon Bois’s <a href="https://www.youtube.com/watch?v=9l5C8cGMueY&feature=emb_title">original</a> <a
+        href="https://nflscorigami.com/">project</a> on the history of the NFL, Scorigami charts every unique score in
+      Princeton football during the modern era. For the purpose of this project, the “modern era” begins in 1912, when
+      the touchdown was changed from 5 to 6 points, as it is today. Due to the nature of scoring in football, in which
+      it is impossible to score just
+    </p>
+    <p>
+      For example, in the 2022 season, Princeton beat Lafayette 23-2. That score had never been achieved in the history
+      of Princeton football – it was a Scorigami! These unique scores are actually quite common when playing Lafayette;
+      in the 31 games Princeton has played them, 18 resulted in scores that had never happened before in Princeton’s
+      history. Other common opponents with over half of the games resulting in Scorigamis include Brown, Colgate, and
+      Rutgers. 2022’s 37-10 win over Harvard marked the continuation of a five-year Scorigami streak between the two
+      rivals (all of which Princeton won).
+    </p>
+    <p>
+    <h1>Why is this data meaningful?</h1>
+    </p>
+    <p>
+      Princeton played in the first game in the history of college football on November 6, 1869. Since then, they’ve
+      played over 1300 games against 80 different opponents, winning 28 national championships and a Heisman trophy. As
+      Jerry Price, the historian for Princeton Athletics, puts it, “Princeton football is a real source of pride. Its
+      history is very storied.”
+    </p>
+    <p>
+      Since Bob Surace became Princeton’s head football coach in 2010, he has seen 61 scorigamis in his 120 games. He
+      says knows how important the history is to the team and alumni.
+    </p>
+    <p>
+      “When I meet [a football alum], and it’s very humbling,” Coach Surace said. “I knew the passion of our alumni, and
+      some research they've done. The history goes way back, and I’m quite humbled.”
+    </p>
+    <p>
+    <h1>Where is the data from?</h1>
+    </p>
+    <p>
+      The data is pulled and verified using multiple sources: <em>Athletics at Princeton : A History</em> by Frank
+      Presbrey, Bric-a-Bracs, and The Daily Princetonian’s archives
+    </p>
+  </div>
 
 
 </body>

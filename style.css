@@ -89,6 +89,25 @@
     background-image: linear-gradient(to right, orange, #e60e11);
 }
 
+.article p{
+    font-size: 19px;
+    padding-bottom: 14px;
+    /* font-family: 'franklin-gothic-urw', 'sans-serif'; */
+}
+
+.article h1{
+    font-family: 'franklin-gothic-urw', 'sans-serif';
+}
+
+.article a{
+    color: orange;
+    text-decoration: none;
+}
+
+.article a:hover{
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 1200px) {
     .scorigami {
         font-size: 40px;
