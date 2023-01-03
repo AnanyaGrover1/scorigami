@@ -1,11 +1,11 @@
 import { parse } from "./parse.js";
 
-// set the dimensions and margins of the graph
+// Set the dimensions and margins of the graph.
 var margin = {top: 20, right: 25, bottom: 30, left: 40},
     width = 1200,
     height = 600 - margin.top - margin.bottom;
 
-// append the svg object to the body of the page
+// Append the SVG object to the body of the page.
 var svg = d3.select("#my_dataviz")
     .append("svg")
     .attr("width", width)
@@ -14,6 +14,8 @@ var svg = d3.select("#my_dataviz")
     .attr("transform",
         "translate(" + 0 + "," + margin.top + ")");
 
+
+// The y-axis is drawn on a separate SVG so it can always be visible while scrolling on smaller viewports.
 var svg2 = d3.select("#yaxis")
     .append("svg")
     .attr("width", 40)
@@ -22,7 +24,7 @@ var svg2 = d3.select("#yaxis")
     .attr("transform",
         "translate(" + margin.left + "," + margin.top + ")");
 
-//Read the data
+//Read the data.
 d3.json(await parse(), function(data) {
 
 // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
@@ -47,7 +49,7 @@ d3.json(await parse(), function(data) {
         .text("Winning Team Score");
     
 
-// Build Y scales and axis:
+	// Build Y scales and axis:
     var y = d3.scaleBand()
         .range([ 0, height ])
         .domain(myVars)
@@ -65,12 +67,12 @@ d3.json(await parse(), function(data) {
         .attr("transform", "rotate(-90)")
         .text("Losing Team Score");
 
-// Build color scale
+	// Build color scale.
     var myColor = d3.scaleSequential()
         .interpolator(d3.interpolate("orange", "#e60e11"))
         .domain([1, 10])
 
-// create a tooltip
+	// Create a tooltip.
     var tooltip = d3.select("#my_dataviz")
         .append("div")
         .style("opacity", 0)
@@ -86,7 +88,7 @@ d3.json(await parse(), function(data) {
         .style("pointer-events", "none")
         .style("max-width", "400px")
 
-// Three function that change the tooltip when user hover / move / leave a cell
+	// Three functions that change the tooltip when user hovers over, moves around, and leaves a cell.
     var mouseover = function() {
         tooltip
             .style("opacity", 1)
@@ -111,6 +113,8 @@ d3.json(await parse(), function(data) {
 
 
         }
+		
+		// Custom messages based on different counts, or if a score combination is possible.
         if(d.count > 1) {
         tooltip
             .html("<span class='tooltip-header'>"+ d.winning_score+':'+d.losing_score + "</span>" + "<br>" + "There have been " + d.count + " games with this score. " + "<br>" + "The first was " + d.firstGame + "<br>" + "The latest was " + d.lastGame)
@@ -142,7 +146,7 @@ d3.json(await parse(), function(data) {
             .style("opacity", 0.8)
     }
 
-// add the squares
+// Draws the squares.
 var squares = svg.selectAll()
         .data(data, function(d) {return d.winning_score+':'+d.losing_score;})
         .enter().append("g")
@@ -152,6 +156,8 @@ var rectangles = squares.append("rect")
         .attr("y", function(d) { return y(d.losing_score) })
         .attr("width", x.bandwidth() )
         .attr("height", y.bandwidth() )
+		
+		// Manages the fill colors of each square.
         .style("fill", function(d) { 
             if(d.count < 0) return "black";
             else if(d.count == 0) return "#f5f5f5";
@@ -160,7 +166,8 @@ var rectangles = squares.append("rect")
         .style("stroke-width", 1)
         .style("stroke", "none")
         .style("opacity", 0.8)
-// this adds box labels
+		
+// This draws box labels.
 var square_labels = squares.append("text")
         .style("font-size", 0)
         .attr("x", function(d) { return x(d.winning_score) + x.bandwidth() / 2})

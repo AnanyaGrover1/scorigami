@@ -46,7 +46,9 @@ export async function parse() {
             c = r;
             r = temp;
         }
-
+		
+		// Equation below places the score pair in the correct index in
+		// the array based on its row and column number.
         let scorePair = grid[r * cTotal + c];
         scorePair.count++;
         if (scorePair.firstGame === 'n/a') scorePair.firstGame = e.description;
